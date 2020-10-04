@@ -1,83 +1,47 @@
 import React from "react";
 import Report from "./Report";
-import { Link, NavLink } from 'react-router-dom';
-
-const fileNames = [];
-for (let id = 1; id < 11; id++) {
-    let txtFileItem = require(`../reports/report${id}.txt`)
-    fileNames.push([id,txtFileItem]);
-}
-
+import { Link, NavLink } from "react-router-dom";
+import { connect } from "react-redux";
 
 class ReportList extends React.Component {
   constructor(props) {
     super(props);
-  }
-
-  state = {
-    data: []
+    this.state = {
+      reports: this.props.reports,
+    };
   }
 
   componentDidMount() {
-      const data = []
-      for (let txtFile of fileNames) {
-        data.push(this.readTextFile(txtFile));
-      }
-      this.setState({
-          data
-      })
+    //   this.setState({
+    //       reports: this.props.reports
+    //   })
   }
 
-  readTextFile = (file) => {
-    const data = {id: file[0], title: '', author: '', releasedDate: '', content: '', text: '', tag: ''}
-    var rawFile = new XMLHttpRequest();
-    rawFile.open("GET", file[1], false);
-    rawFile.onreadystatechange = () => {
-        if (rawFile.readyState === 4) {
-            if (rawFile.status === 200 || rawFile.status == 0) {
-                var allText = rawFile.responseText;
-                data.content = allText.split('\n')[0];
-                data.text = allText;
-                for (let text of allText.split('\n')) {
-                    if (text.includes('Title:')) {
-                        data.title = text.split('Title: ')[1]
-                    }
-                    if (text.includes('Author:')) {
-                        data.author = text.split('Author: ')[1]
-                    }
-                    if (text.includes('Release Date:')) {
-                        data.releasedDate = text.split('Release Date: ')[1]
-                        break;
-                    }
-                }
-            }
-        }
-    };
-    rawFile.send(null);
-    return data;
-};
-
-searchReports = (query) => {
+  searchReports = (query) => {
     query = query.toLowerCase();
-    if (query === '') {
-        this.setState({
-            data: [],
-          });
-    } else {
-      let searchedReports = this.state.data.filter((report) => {
-        return report.title.toLowerCase().includes(query) || report.content.toLowerCase().includes(query) || report.text.toLowerCase().includes(query);
+    if (query === "") {
+      this.setState({
+        reports: this.props.reports,
       });
-      this.setState({ data: searchedReports });
+    } else {
+      let searchedReports = this.props.reports.filter((report) => {
+        return (
+          report.title.toLowerCase().includes(query) ||
+          report.content.toLowerCase().includes(query) ||
+          report.text.toLowerCase().includes(query)
+        );
+      });
+      this.setState({ reports: searchedReports });
     }
-}
+  };
 
-handleSearch = (e) => {
+  handleSearch = (e) => {
     this.searchReports(e.target.value);
-}
+  };
 
   render() {
-    const { data } = this.state;
-    const options = ['#goodreport', '#conditionreport'];
+    const { reports } = this.state;
+
     return (
       <div id="content">
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
@@ -136,11 +100,11 @@ handleSearch = (e) => {
               </tr>
             </thead>
             <tbody>
-              {data ? data.map((report, i) => {
-                  return (
-                    <Report report={report} key={i} />
-                  )
-              }) : null}
+              {reports
+                ? reports.map((report, i) => {
+                  return <Report report={report} key={i} />;
+                })
+                : null}
             </tbody>
           </table>
         </div>
@@ -149,4 +113,11 @@ handleSearch = (e) => {
   }
 }
 
-export default ReportList;
+const mapStateToProps = (state) => {
+  console.log(state);
+  return {
+    reports: state.reports,
+  };
+};
+
+export default connect(mapStateToProps)(ReportList);
