@@ -63,6 +63,7 @@ a, a:hover, a:focus {
 #sidebar ul.components {
     padding: 20px 0;
     border-bottom: 1px solid #47748b;
+    border: none;
 }
 
 #sidebar ul p {
@@ -201,7 +202,22 @@ a.article, a.article:hover {
     #content {
         width: 100%;
         max-height: 100vh;
+        min-height: 100vh;
         padding: 0px;
+    }
+
+    .content-container {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    
+    .content-container p {
+        display: flex;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 10px;
+        /* margin-left: 30%; */
+        font-size: 20px;
     }
 }
 
@@ -260,4 +276,36 @@ td p {
 
 .report-row:hover {
     background-color: #e9ecef;
+}
+
+.logo-image {
+
+}
+
+.navbar {
+    padding: 15px 10px;
+    background: #fff;
+    border: none;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-btn {
+    box-shadow: none;
+    outline: none !important;
+    border: none;
+}
+
+.goodreport {
+    background-color: lightgreen;
+    margin: 30px 10px;
+    border-radius: 10px;
+    
+}
+
+.conditionreport {
+    background-color: lightpink;
+    margin: 30px 10px;
+    border-radius: 10px;
 }

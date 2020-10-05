@@ -12,12 +12,6 @@ class ReportList extends React.Component {
     };
   }
 
-  componentDidMount() {
-    //   this.setState({
-    //       reports: this.props.reports
-    //   })
-  }
-
   searchReports = (query) => {
     query = query.toLowerCase();
     if (query === "") {
@@ -55,13 +49,13 @@ class ReportList extends React.Component {
                 <th scope="col">Content</th>
                 <th scope="col">Details</th>
                 <th scope="col">Tags</th>
-                
+
               </tr>
             </thead>
             <tbody>
               {reports
                 ? reports.map((report, i) => {
-                  return <Report report={report} key={i} history={this.props.history}/>;
+                  return <Report report={report} key={i} history={this.props.history} />;
                 })
                 : null}
             </tbody>

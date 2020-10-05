@@ -1,7 +1,7 @@
 const dataset = [];
 
 const readTextFile = (file) => {
-    const data = {id: file[0], title: '', author: '', releasedDate: '', content: '', text: '', tag: ''};
+    const data = { id: file[0], title: '', author: '', releasedDate: '', content: '', text: '', tag: '' };
     var rawFile = new XMLHttpRequest();
     rawFile.open("GET", file[1], false);
     rawFile.onreadystatechange = () => {
