@@ -3,6 +3,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 import ReportList from './components/ReportList';
 import Report from './components/Report';
+import ReportDetails from './components/ReportDetails';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
 function App() {
@@ -12,7 +13,7 @@ function App() {
         <Navbar />
         <Switch>
           <Route exact path="/" component={ReportList} />
-          <Route path="/reports/:id" component={Report} />
+          <Route path="/reports/:id" component={ReportDetails} />
         </Switch>
       </div>
     </BrowserRouter>
