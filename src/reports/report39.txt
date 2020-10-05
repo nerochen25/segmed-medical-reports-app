@@ -1,0 +1,191 @@
+The Project Gutenberg EBook of On the Natural Faculties, by Galen
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: On the Natural Faculties
+
+Author: Galen
+
+Translator: Arthur John Brock
+
+Release Date: August 2, 2013 [EBook #43383]
+
+Language: English
+
+Character set encoding: UTF-8
+
+
+
+Horace said “_Graecia capta ferum victorem cepit_.” Political
+domination, the occupation of territory by armies, does not
+necessarily mean real conquest. Horace’s statement applied to medicine
+as to other branches of culture.
+
+The introducer of Greek medicine into Rome was Asclepiades (1st
+century B.C.). A man of forceful personality, and equipped with a
+fully developed philosophic system of health and disease which
+commended itself to the Roman _savants_ of the day, he soon attained
+to the pinnacle of professional success in the Latin capital: he is
+indeed to all time the type of the fashionable (and somewhat “faddy”)
+West-end physician. His system was a purely mechanistic one, being
+based upon the atomic doctrine of Leucippus and Democritus, which had
+been completed by Epicurus and recently introduced to the Roman public
+in Lucretius’s great poem “_De Rerum Natura_.” The disbelief of
+Asclepiades in the self-maintaining powers of the living organism are
+exposed and refuted at considerable length by Galen in the volume
+before us.
+
+[Sidenote: The Methodists.]
+
+Out of the teaching of Asclepiades that physiological processes depend
+upon the particular way in which the ultimate indivisible molecules come
+together (ἐν τῇ ποίᾳ συνόδῳ τῶν πρώτων ἐκείνων σωμάτων τῶν άπαθῶν) there
+was developed by his pupil, Themison of Laodicea, a system of medicine
+characterised by the most engaging simplicity both of diagnosis and
+treatment. This so-called “Methodic” system was intended to strike a
+balance between the excessive leaning to apriorism shown by the
+Rationalist (Hippocratic) school and the opposite tendency of the
+Empiricists. “A pathological theory we must have,” said the Methodists
+in effect, “but let it be simple.” They held that the molecular groups
+constituting the tissues were traversed by minute channels (πόροι,
+“pores”); all diseases belonged to one or other of two classes; if the
+channels were constricted the disease was one of _stasis_ (στέγνωσις),
+and if they were dilated the disease was one of _flux_ (ῥύσις). Flux and
+stasis were indicated respectively by increase and diminution of the
+natural secretions; treatment was of opposites by opposites—of stasis
+by methods causing dilatation of the channels, and conversely.
+
+Wild as it may seem, this pathological theory of the Methodists
+contained an element of truth; in various guises it has cropped up
+once and again at different epochs of medical history; even to-day
+there are pathologists who tend to describe certain classes of disease
+in terms of vaso-constriction and vaso-dilatation. The vice of the
+Methodist teaching was that it looked on a disease too much as
+something fixed and finite, an independent _entity_, to be considered
+entirely apart from its particular setting. The Methodists illustrate
+for us the tyranny of _names_. In its defects as in its virtues this
+school has analogues at the present day; we are all acquainted with
+the medical man to whom a name (such, let us say, as “tuberculosis,”
+“gout,” or “intestinal auto-intoxication”) stands for an entity, one
+and indivisible, to be treated by a definite and unvarying formula.
+
+To such an individual the old German saying “_Jedermann hat am Ende
+ein Bischen Tuberkulose_” is simply—incomprehensible.
+
+[Sidenote: Galen.]
+
+All the medical schools which I have mentioned were still holding
+their ground in the 2nd century A.D., with more or less popular
+acceptance, when the great Galen made his entry into the world of
+Graeco-Roman medicine.
+
+[Sidenote: His Nature and Nurture.]
+
+Claudius Galenus was born at Pergamos in Asia Minor in the year 131
+A.D. His father was one Nicon, a well-to-do architect of that city. “I
+had the great good fortune,” says Galen,[1] “to have as a father a
+highly amiable, just, good, and benevolent man. My mother, on the
+other hand, possessed a very bad temper; she used sometimes to bite
+her serving-maids, and she was perpetually shouting at my father and
+quarrelling with him—worse than Xanthippe with Socrates. When,
+therefore, I compared the excellence of my father’s disposition with
+the disgraceful passions of my mother, I resolved to embrace and love
+the former qualities, and to avoid and hate the latter.”
+
+Nicon called his son Γαληνός, which means _quiet, peaceable_, and
+although the physician eventually turned out to be a man of elevated
+character, it is possible that his somewhat excessive leaning towards
+controversy (exemplified in the following pages) may have resulted
+from the fact that he was never quite able to throw off the worst
+side of the maternal inheritance.
+
+His father, a man well schooled in mathematics and philosophy, saw to
+it that his son should not lack a liberal education. Pergamos itself
+was an ancient centre of civilisation, containing, among other
+culture-institutions, a library only second in importance to that of
+Alexandria itself; it also contained an Asclepieum.
+
+Galen’s training was essentially eclectic: he studied all the chief
+philosophical systems of the time—Platonic, Aristotelian, Stoic, and
+Epicurean—and then, at the age of seventeen, entered on a course of
+medical studies; these he pursued under the best teachers at his own
+city, and afterwards, during a period of _Wanderjahre_, at Smyrna,
+Alexandria, and other leading medical centres.
+
+Returning to Pergamos, he received his first professional
+appointment—that of surgeon to the gladiators. After four years here
+he was drawn by ambition to Rome, being at that time about thirty-one
+years of age. At Rome the young Pergamene attained a brilliant
+reputation both as a practitioner and as a public demonstrator of
+anatomy; among his patients he finally numbered even the Emperor
+Marcus Aurelius himself.
+
+Medical practice in Rome at this time was at a low ebb, and Galen took
+no pains to conceal his contempt for the ignorance, charlatanism, and
+venality of his fellow-practitioners. Eventually, in spite of his
+social popularity, he raised up such odium against himself in medical
+circles, that he was forced to flee the city. This he did hurriedly
+and secretly in the year 168 A.D., when thirty-six years of age. He
+betook himself to his old home at Pergamos, where he settled down once
+more to a literary life.
+
+His respite was short, however, for within a year he was summoned back
+to Italy by imperial mandate. Marcus Aurelius was about to undertake
+an expedition against the Germans, who at that time were threatening
+the northern frontiers of the Empire, and he was anxious that his
+consulting physician should accompany him to the front. “Patriotism”
+in this sense, however, seems to have had no charms for the Pergamene,
+and he pleaded vigorously to be excused. Eventually, the Emperor gave
+him permission to remain at home, entrusting to his care the young
+prince Commodus.
+
+Thereafter we know little of Galen’s history, beyond the fact that he
+now entered upon a period of great literary activity. Probably he died
+about the end of the century.
+
+[Sidenote: Subsequent History of Galen’s Works.]
+
+Galen wrote extensively, not only on anatomy, physiology, and medicine
+in general, but also on logic; his logical proclivities, as will be
+shown later, are well exemplified in his medical writings. A
+considerable number of undoubtedly genuine works of his have come down
+to us. The full importance of his contributions to medicine does not
+appear to have been recognized till some time after his death, but
+eventually, as already pointed out, the terms Galenism and Greek
+medicine became practically synonymous.
+
+A few words may be devoted to the subsequent history of his writings.
+
+[Sidenote: Byzantine Medicine.]
+
+During and after the final break-up of the Roman Empire came times or
+confusion and of social reconstruction, which left little opportunity
+for scientific thought and research. The Byzantine Empire, from the
+4th century onwards, was the scene of much internal turmoil, in which
+the militant activities of the now State-established Christian church
+played a not inconsiderable part. The Byzantine medical scholars
+were at best compilers, and a typical compiler was Oribasius,
+body-physician to the Emperor Julian (4th century, A.D.); his
+excellent _Synopsis_ was written in order to make the huge mass of
+the Galenic writings available for the ordinary practitioner.
+
+[Sidenote: Arabian Medicine.]
+
+Greek medicine spread, with general Greek culture, throughout Syria,
+and from thence was carried by the Nestorians, a persecuted heretical
+sect, into Persia; here it became implanted, and hence eventually
+spread to the Mohammedan world. Several of the Prophet’s successors
+(such as the Caliphs Harun-al-Rashid and Abdul-Rahman III) were great
+patrons of Greek learning, and especially of medicine. The Arabian
+scholars imbibed Aristotle and Galen with avidity. A partial
+assimilation, however, was the farthest stage to which they could
+attain; with the exception of pharmacology, the Arabians made
+practically no independent additions to medicine. They were
+essentially systematizers and commentators. “_Averrois che il gran
+comento feo_”[2] may stand as the type _par excellence_ of the Moslem
+sage.
+

@@ -1,0 +1,193 @@
+The Project Gutenberg EBook of General Anatomy, Applied to Physiology and
+Medicine, Vol. 1 (of 3), by Xavier Bichat
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: General Anatomy, Applied to Physiology and Medicine, Vol. 1 (of 3)
+
+Author: Xavier Bichat
+
+Translator: George Hayward
+
+Release Date: January 7, 2018 [EBook #56118]
+
+Language: English
+
+Character set encoding: UTF-8
+
+I have endeavoured, as far as possible, in classing the functions, to
+follow the path marked out by nature herself. I have laid, in my work
+upon Life and Death, the foundations of this classification, which I
+pursued before I published this work. Aristotle, Buffon, &c. have seen
+in man two kinds of functions, one which connects him with external
+bodies, the other, which serves for his nourishment. Grimaud brought
+forward again this idea, which is as great as it is true, in his course
+of physiology and in his memoir upon nutrition; but by considering
+it in too general a manner, he did not analyze it with sufficient
+exactness, he ranked among the external functions, only sensation and
+motion, he did not describe the brain as the centre of these functions,
+nor place the voice among them, which is however one of the great
+means of communication, with the bodies that surround us. He did not
+analyze more accurately the internal functions. He did not point out
+their connexion in the elaboration of nutritive matter, where each
+works in its turn, if I may so express myself; nor show the distinctive
+characters, which separate generation from all the other functions
+relating to the individual alone. Besides, the distinction of internal
+and external functions was only presented as a general sketch in his
+Memoir upon Nutrition, and not as a means of classification. He did not
+avail himself of it, in the division of the functions, in his lectures,
+of which many manuscripts arranged by himself, are to be met with at
+the present time; in these he examined, 1st. osteogony, which was
+treated at much length; 2d. the action of the muscles; 3d. the action
+of the vessels or the circulation; 4th. generation; 5th. the action of
+the organs of the senses; 6th. the action of the brain and nerves; 7th.
+digestion; 8th. secretion; 9th. respiration, &c. From this it may be
+perceived, that Grimaud, like preceding authors, mixed together all the
+functions without referring them to certain general heads.
+
+In reflecting upon the division pointed out above, I soon saw that it
+was not only one of those general views, one of those great outlines,
+that are oftentimes made by men of genius who cultivate physiology,
+but that it might become the permanent basis of a methodical
+classification. To come at this classification I observed that it was
+necessary at first to refer all the functions to two great classes,
+one relating to the individual, the other to the species; that these
+two classes had nothing in common, but the general connexion that
+unites all the phenomena of living bodies; but a variety of distinctive
+attributes characterize them, which cannot be separated from them.
+
+These two first classes being rigorously defined, and their limits
+established by nature, I sought to discover in each, orders equally
+natural; this was easy in the functions relating to the individual.
+In fact, this was the place for the general outline of Aristotle and
+Buffon; but it was not to be presented in too general a manner; the
+nature and connexion of the functions peculiar to each order, were to
+be accurately assigned.
+
+I called the order of functions that connects us with external bodies,
+animal life, thus indicating that this order belongs alone to animals,
+that it is more with them than with vegetables, and that it is the
+addition of these functions that particularly distinguishes them
+from vegetables. I called organic life, the order that serves for the
+constant composition and decomposition of our bodies, because this life
+is common to all organized beings, vegetables as well as animals; and
+because the only condition of enjoying it is organization; so that it
+forms a boundary between organic and inorganic bodies, as animal life
+serves to separate the two classes that form the first.
+
+Animal life is composed of the action of the senses which receive
+impressions, of the brain which perceives them, reflects, and wills,
+of the voluntary muscles and larynx that execute this volition, and of
+the nerves which are the agents of transmission. The brain is truly
+the central organ of this life. Digestion, circulation, respiration,
+exhalation, absorption, secretion, nutrition, calorification, compose
+organic life, which has the heart for its principal and central organ.
+
+I place calorification here, because it is evident from what I have
+said under the article upon the capillary systems, that it is a
+function analogous to secretion, exhalation and nutrition. It is truly
+a separation of combined caloric, from the mass of blood. It is, if
+the expression is preferred, a secretion or exhalation of that fluid
+in every part of the body. I have not even at present given this place
+to heat in my physiological classification: but in reflecting upon the
+method of its production, it will be seen that it ought to have it.
+
+The two orders of the first class being established, it was easy to
+assign those of the second, which are three in number: 1st. functions
+belonging to the male; 2d. those belonging to the female; 3d. those
+arising from an union of the two sexes and the product of this union;
+these are the three orders.
+
+Such is the classification that I made in my Lectures on Physiology;
+it has evidently nothing in common with any of those that are found
+in physiological works; and if you reflect upon it a little, it
+will appear I think infinitely preferable to any of them. Observe in
+fine, that each class and each order have general and characteristic
+attributes that particularly distinguish them, and which being
+applicable to all the functions of that order, mark a difference
+between them and all the functions of any other order. I have pointed
+out moreover the distinctive attributes of animal and of organic life;
+I have shown that the organs of one are symmetrical, those of the other
+irregular; that there is a harmony in the functions of the first, a
+discordance in those of the second; that one commences sooner and
+terminates later, &c.
+
+I have demonstrated, that the cerebral nerves belong especially to
+animal life, the nerves of the ganglions to the organic, which appears
+to me to be a remarkable difference, and which has induced me to make
+two systems of the nerves, that anatomists have united in one. The
+first, belonging to animal life, is composed of the cerebral nerves,
+the other to organic, is formed of the nerves of the ganglions, or what
+is commonly called the great sympathetic.
+
+But it is the vital powers especially that distinguish one life from
+another. I have shown that one kind of sensibility and contractility
+belongs to animal life, and another to organic. Now as these vital
+properties are the principle of the functions, it is evident that the
+division of these properties demonstrates that that of the two lives is
+not an abstraction, but that it is nature herself that has fixed the
+limits, since she has made particular properties for each.
+
+It is impossible to form a precise idea of the vital properties,
+without admitting the division I have made. How many disputes there
+have been, upon the subject of sensibility! Not one of them would
+have taken place, if the attributes of animal life had been properly
+distinguished from those of the organic. Certainly no one will
+hereafter confound in one view, as frequently has been done, the
+faculty that the heart has of being sensible to the entrance of the
+blood, without transmitting that impression, and the faculty that the
+skin, the other senses, the nerves, &c. have, not only of feeling the
+impression of external bodies, but of transmitting it to the brain, so
+that the sensation may be perceived.
+
+If you include under one common name of irritability, the motions of
+muscles that contract only by stimuli, and those which the cerebral
+influence puts in action, it is impossible that you should be
+understood.
+
+There has been much discussion during the last age, upon the point,
+whether sensibility is the same as contractility, or if these two
+properties can be separated. Each of the two opinions seem to have
+rested upon an equally solid foundation. But all these disputes
+will be done away, by admitting the distinction I have made in the
+vital properties. 1st. In animal life, then, it is evident, that
+contractility is not a necessary consequence of sensibility; thus
+frequently external objects make for a long time an impression upon
+us, and yet the voluntary muscles remain unmoved. 2d. On the other
+hand, in organic life, these two properties are never separated. In
+the involuntary motions of the heart, the stomach, the intestines,
+&c. there is first an excitement of the organic sensibility, and
+then an action of the sensible organic contractility. In the same
+manner, in the motions necessary to secretion, exhalation, &c. when
+the organic sensibility has been brought into action, immediately
+insensible organic contractility takes place. It is that they may
+be studied better, and appreciated more accurately, that in organic
+life, I separate these two kinds of contractility from sensibility.
+In the natural state they are inseparable. Hence why the passive
+sympathies of animal sensibility are very different from those of
+animal contractility, and make two distinct classes, whilst the
+passive sympathies of organic sensibility can never be separated from
+the corresponding contractilities. We suffer by sympathy, and are
+sympathetically convulsed in a distinct manner; these two things are
+almost always separate. On the contrary, sensation and motion in the
+organic sympathies are inseparable.
+
+I could prove by many examples, that all the disputes, and all the
+diversities of opinion, upon the subject of the vital properties,
+proceed only from this cause, that those which preside over the
+functions of one life, have not been distinguished from those which put
+into action the functions of the other.
+
+Let us return to my physiological division; I will now give a table
+of it, which, presenting it under one point of view, will give a more
+precise idea of the classification. This table comprehends, 1st. the
+prolegomena of the science; 2d. the exposition of the functions. In the
+prolegomena, every thing is referred to two great considerations; on
+the one hand to organic texture, described in a general manner, and on
+the other to life, considered in relation to its great attributes.
+

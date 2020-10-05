@@ -30,7 +30,7 @@ const readTextFile = (file) => {
 };
 
 
-for (let id = 1; id < 11; id++) {
+for (let id = 1; id < 52; id++) {
     let txtFileItem = require(`../../reports/report${id}.txt`)
     dataset.push(readTextFile([id, txtFileItem]))
 }
