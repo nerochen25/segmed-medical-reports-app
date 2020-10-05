@@ -1,0 +1,548 @@
+The Project Gutenberg eBook, Medieval Medicine, by James J. (James Joseph)
+Walsh
+
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+
+
+
+Title: Medieval Medicine
+
+
+Author: James J. (James Joseph) Walsh
+
+
+
+Release Date: July 25, 2013  [eBook #43300]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+
+
+
+After Aëtius came Alexander of Tralles, from another of these towns of
+Asia Minor that we would consider insignificant, sometimes termed
+Trallianus for this reason. He must be reputed one of the great
+independent thinkers in medicine whose writings have deservedly attracted
+attention not only in his own time, but long afterwards in the Renaissance
+period, and with whose works everyone who cares to know anything about the
+development of medical history must be familiar. One detail of his life
+has always seemed to me to correct a whole series of misapprehensions with
+regard to the earlier Middle Ages. Alexander was one of five brothers, all
+of whose names have come down to us through nearly 1,500 years because of
+what they accomplished at the great Capital of the East. The eldest of
+them was Anthemios, the architect of the great Church of Santa Sophia. A
+second brother was Methrodoros, a distinguished grammarian and teacher at
+Constantinople. A third brother was a prominent jurist in the Imperial
+Courts of the capital; while a fourth brother, Dioscoros, was, like
+Alexander, a physician of repute, but remained in his birthplace Tralles,
+and acquired a substantial practice there.
+
+There is sometimes the feeling that at this time in the world's history,
+the end of the sixth and the beginning of the seventh century, men had but
+little initiative, and above all very little power of achievement in the
+intellectual order. Anyone who knows Santa Sophia in Constantinople,
+however, will recognize at once that the architect who conceived and
+superintended the construction of that great edifice was a genius of a
+high order, not lacking in initiative, but on the contrary possessed of a
+wonderful power of original accomplishment. No greater constructive work,
+considering all the circumstances, has perhaps ever been successfully
+planned and executed. It would scarcely be expected that the brother of
+the man who conceived and finished Santa Sophia would, if he set out to
+write a textbook of medicine, make an egregious failure of it. Surely his
+work would not be all unworthy of his brother's reputation, and the family
+genius should lift him up to important accomplishment. This is literally
+what we find true with regard to Alexander. After years of travel which
+led him into Italy, Gaul, Spain, and Africa, he settled down at Rome, and
+practised medicine successfully until a very old age, and probably
+lectured there, for some of his books are in the form of lectures.
+
+Fortunately for us, he committed his knowledge and his experience to
+writing, which has come down to us.
+
+A third of these greater writers on medicine in the early Middle Ages was
+Paul of Ægina--Æginetus as he is sometimes known. There has been some
+question as to his date in history, but as he quotes Alexander of Tralles
+there seems to be no doubt now that his career must be placed in the first
+half of the seventh century. We shall see more of him, as also of his
+great contemporaries and predecessors of the early Middle Ages, Aëtios and
+Alexander of Tralles, in a subsequent chapter. Besides these men who were
+known for their writings, a series of less known Christian physicians
+were praised by their contemporaries for their knowledge of medicine.
+Among them are particularly to be noted certain members of an Arabian
+family with the title Bachtischua, a name which is derived from the Arabic
+words _Bocht Jesu_--that is, servant of Jesus--who, having studied among
+the Greek Christians in the cities of Asia Minor, were called to the Court
+of Haroun al-Raschid and introduced Greek medicine to the Mohammedans. I
+have pointed out in my volume "Old-Time Makers of Medicine"[1] that "it
+was their teaching which aroused Moslem scholars from the apathy that
+characterized the attitude of the Arabian people towards science at the
+beginning of Mohammedanism."
+
+After this preliminary period of early medieval medical development, the
+next important phase of medicine and surgery in the Middle Ages developed
+in the southern part of Italy at Salerno. Here came the real awakening
+from that inattention to intellectual interests which characterized Italy
+after the invasion of the northern barbarians. The reason for the early
+Renaissance in this neighbourhood is not far to seek. In the older times
+Sicily had been a Greek colony, and the southern portion of Italy had been
+settled by Greeks and came to be known as Magna Græcia. The Greek
+language continued to be spoken in many parts even during the earlier
+medieval centuries, and Greek never became the utterly unknown tongue it
+was in Northern Italy. With the turning of attention to education in the
+later Middle Ages, the Southern Italians were brought almost at once in
+contact with Greek sources, and the earlier Renaissance began. With this
+in mind, it is comparatively easy to understand the efflorescence of
+culture in Southern Italy, and the development of the important University
+of Salerno and its great accomplishment, particularly in scientific
+matters, though all this came almost entirely as a consequence of the
+opportunity for Greek influence to have its effect there.
+
+It is sometimes said that Arabian influence meant much for the development
+of Salerno, and that it was because the southern part of the Italian
+peninsula was necessarily rather closely in touch with Arabian culture
+that an early awakening took place down there. The Mohammedans occupied so
+many of the islands of the Mediterranean, as well as Spain, that their
+influence was felt deeply all along its shore, and hence the first
+university of Europe in modern times came into existence in this part of
+the world. Montpellier is sometimes, though not so often, said to have had
+the same factor in its early development. Undoubtedly there was some
+Arabian influence in the foundation of Salerno. The oldest traditions of
+the University show this rather clearly. This Arabian influence, however,
+has been greatly exaggerated by some modern historical writers. Led by the
+thought that Christianity was opposed to culture, and above all to
+science, they were quite willing to suggest any other influences than
+Christian as the source of so important a movement in the history of human
+progress as Salerno proved to be. The main influence at Salerno, however,
+was Greek, and the proof of this is, as insisted by Gurlt in his "History
+of Surgery," that the great surgeons of Salerno do not refer to Arabian
+sources, but to Greek authors, and their books do not show traces of
+Arabian influences, but on the contrary have many Græcisms in them.
+
+Salerno represents an especially important chapter in the history of
+Medieval Medicine. As we shall see, the teachers at the great medical
+school there set themselves in strenuous opposition to the Arabian
+tendency to polypharmacy, by which the Oriental mind had seriously hurt
+medicine, and what is still more to the credit of these Salernitan
+teachers, they developed surgery far beyond anything that the Arabs had
+attempted. Indeed, surgery in the later centuries of Arabian influence
+had been distinctly neglected, but enjoyed a great revival at Salerno.
+Besides, the Salernitan physicians used all the natural methods of cure,
+air, water, exercise, and diet, very successfully. If any other proof were
+needed that Arabian influence was not prominent at Salerno, surely it
+would be found in the fact that women physicians enjoyed so many
+privileges there. This is so entirely opposed to Mohammedan ways as to be
+quite convincing as a demonstration of the absence of Arabian influence.
+
+From Salerno, the tradition of medicine and surgery spread to Bologna
+early in the thirteenth century, and thence to the other universities of
+Italy and to France. Montpellier represented an independent focus of
+modern progress in medicine, partly due to close relationship with the
+Moors in Spain and the Greek influences they carried with them from Asia
+Minor, but not a little of it consequent upon the remnants of the older
+Greek culture, still not entirely dead even in the thirteenth century,
+because Marseilles, not far away, had been a Greek colony originally, and
+still retained living Greek influence, and wherever Greek got a chance to
+exercise its stimulant incentive modern scientific medicine began to
+develop.
+
+France owed most of her development in medicine and surgery at the end of
+the Middle Ages to the stream of influence that flowed out of Italian
+universities. Such men as Lanfranc, who was an Italian born but exiled;
+Mondeville, who studied in Italy; and Guy de Chauliac, who has so freely
+acknowledged his obligation to Italian teachers, were the capital sources
+of medical and surgical teaching in France in the later Middle Ages.
+
+It is thus easy to see how the two periods of historical import in
+medicine at the beginning and end of the Middle Ages may be placed in
+their intimate relation to Greek influences. At the beginning, Greek
+medicine was not yet dead in Asia Minor, and it influenced the Arabs. When
+the revival came, it made itself first felt in the portions of Southern
+Italy and Southern France where Greek influence had been strongest and
+still persisted. Fortunately for us, the great Renaissance printers and
+scholars, themselves touched by the Greek spirit of their time, put the
+books of the writers of these two periods into enduring printed form, and
+in more recent years many reprints of them have been issued. These volumes
+make it possible for us to understand just how thoroughly these colleagues
+of the Middle Ages faced their problems, and solved them with a practical
+genius that deserves the immortality that their works have been given.
+
+The history of medicine and surgery during the Middle Ages has been
+greatly obscured by the assumption that at this time scientific medicine
+and surgery could scarcely have developed because men were lacking in the
+true spirit of science. The distinction between modern and medieval
+education is often said to be that the old-time universities sought to
+increase knowledge by deduction, while the modern universities depend on
+induction. Inductive science is often said to be the invention of the
+Renaissance period, and to have had practically no existence during the
+Middle Ages. The medieval scholars are commonly declared to have preferred
+to appeal to authority, while modern investigators turn to experience.
+Respect for authority is often said to have gone so far in the Middle Ages
+that no one ventured practically to assert anything unless he could find
+some authority for it. On the other hand, if there was any acknowledged
+authority, say Aristotle or Galen, men so hesitated to contradict him that
+they usually followed one another like sheep, quoting their favourite
+author and swearing by the authority of their chosen master. Indeed, many
+modern writers have not hesitated to express the greatest possible wonder
+that the men of the Middle Ages did not think more for themselves, and
+above all did not trust to their own observation, rather than constantly
+rest under the shadow of authority.
+
+Above all, it is often asked why there was no nature study in the Middle
+Ages--that is, why men did not look around them and see the beauties and
+the wonders of the world and of nature, and becoming interested in them,
+endeavour to learn as much as possible about them. Anyone who thinks that
+there was no nature study in the Middle Ages, however, is quite ignorant
+of the books of the Middle Ages. Dante, for instance, is full of the
+knowledge of nature. What he knows about the ants, and the bees, and many
+other insects; about the flowers, and the birds, and the habits of
+animals; about the phosphorescence at sea and the cloud effects, and
+nearly everything else in the world of nature around him, adds greatly to
+the interest of his poems. He uses all these details of information as
+figures in his "Divine Comedy," not in order to display his erudition, but
+to bring home his meaning with striking concreteness by the metaphors
+which he employs. There is probably no poet in the modern time who knows
+more about the science of his time than Dante, or uses it to better
+advantage.
+
+It is sometimes thought that the medieval scholars did not consider that
+experience and observation were of any value in the search for truth, and
+that therefore there could have been no development of science. In an
+article on "Science at the Medieval Universities"[2] I made a series of
+quotations from the two great scientific scholars of the thirteenth
+century, Albertus Magnus and Roger Bacon, with regard to the question of
+the relative value of authority and observation in all that relates to
+physical science. Stronger expressions in commendation of observation and
+experiment as the only real sources of knowledge in such matters could
+scarcely be found in any modern scientist. In Albert's tenth book of his
+"Summa," in which he catalogues and describes all the trees, plants, and
+herbs known in his time, he declares: "All that is here set down is the
+result of our own experience, or has been borrowed from authors whom we
+know to have written what their personal experience has confirmed; for in
+these matters experience alone can be of certainty." In his impressive
+Latin phrase, _experimentum solum certificat in talibus_. With regard to
+the study of nature in general he was quite emphatic. He was a theologian
+as well as a scientist, yet in his treatise on "The Heavens and the
+Earth," he declared that: "In studying nature we have not to inquire how
+God the Creator may, as He freely wills, use His creatures to work
+miracles, and thereby show forth His power. We have rather to inquire
+what nature with its immanent causes can naturally bring to pass."
+
+Roger Bacon, the recent celebration of whose seven hundredth anniversary
+has made him ever so much better known than before, furnishes a number of
+quotations on this subject. One of them is so strong that it will serve
+our purpose completely. In praising the work done by Petrus, one of his
+disciples whom we have come to know as Peregrinus, Bacon could scarcely
+say enough in praise of the thoroughly scientific temper, in our fullest
+sense of the term, of Peregrinus's mind. Peregrinus wrote a letter on
+magnetism, which is really a monograph on the subject, and it is mainly
+with regard to this that Roger Bacon has words of praise. He says: "I know
+of only one person who deserves praise for his work in experimental
+philosophy, for he does not care for the discourses of men and their wordy
+warfare, but quietly and diligently pursues the works of wisdom.
+Therefore, what others grope after blindly, as bats in the evening
+twilight, this man contemplates in their brilliancy, _because he is a
+master of experiment_. Hence, he knows all of natural science, whether
+pertaining to medicine and alchemy, or to matters celestial or
+terrestrial. He has worked diligently in the smelting of ores, as also in
+the working of minerals; he is thoroughly acquainted with all sorts of
+arms and implements used in military service and in hunting, besides which
+he is skilled in agriculture and in the measurement of lands. It is
+impossible to write a useful or correct treatise in experimental
+philosophy without mentioning this man's name. Moreover, he pursues
+knowledge for its own sake; for if he wished to obtain royal favour, he
+could easily find sovereigns who would honour and enrich him."
+
+Roger Bacon actually wanted the Pope to forbid the study of Aristotle
+because his works were leading men astray from the true study of
+science--his authority being looked upon as so great that men did not
+think for themselves, but accepted his assertions. Smaller men are always
+prone to act thus at any period in the world's history, and we undoubtedly
+in our time have a very large number who do not think for themselves, but
+swear on the word of some master or other, and very seldom so adequate a
+master as Aristotle.
+
+Bacon insisted that the four great grounds of human ignorance are: "First,
+trust in inadequate authority; second, that force of custom which leads
+men to accept without properly questioning what has been accepted before
+their time; third, the placing of confidence in the assertions of the
+inexperienced; and fourth, the hiding of one's own ignorance behind the
+parade of superficial knowledge, so that we are afraid to say, 'I do not
+know.'" Prof. Henry Morley suggested that: "No part of that ground has yet
+been cut away from beneath the feet of students, although six centuries
+have passed. We still make sheepwalks of second, third, and fourth, and
+fifth hand references to authority; still we are the slaves of habit,
+still we are found following too frequently the untaught crowd, still we
+flinch from the righteous and wholesome phrase, 'I do not know,' and
+acquiesce actively in the opinion of others that we know what we appear to
+know."
+
+It used to be the custom to make little of the medieval scientists because
+of their reverence for Aristotle. Generations who knew little about
+Aristotle, especially those of the seventeenth and eighteenth centuries,
+were inclined to despise preceding generations who had thought so much of
+him. We have come to know more about Aristotle in our own time, however,
+and as a consequence have learned to appreciate better medieval respect
+for him. Very probably at the present moment there would be almost
+unanimous agreement of scholars in the opinion that Aristotle's was the
+greatest mind humanity has ever had. This is true not only because of his
+profound intellectual penetration, but above all because of the
+comprehensiveness of his intelligence. For depth and breadth of mental
+view on a multiplicity of subjects, Aristotle has never been excelled and
+has but very few rivals. The admiration of the Middle Ages for him,
+instead of being derogatory in any way to the judgment of the men of the
+time, or indicating any lack of critical appreciation, rather furnishes
+good reasons for high estimation of both these intellectual modes of the
+medieval mind. Proper appreciation of what is best is a much more
+difficult task than condemnation of what is less worthy of regard. It is
+the difference between constructive and destructive criticism. Medieval
+appreciation of Aristotle, then, constitutes rather a good reason for
+admiration of them than for depreciation of their critical faculty; and
+yet they never carried respect and reverence to unthinking worship, much
+less slavish adoration. Albertus Magnus, for instance, said: "Whoever
+believes that Aristotle was a God must also believe that he never erred;
+but if we believe that Aristotle was a man, then doubtless he was liable
+to err just as we are." We have a number of direct contradictions of
+Aristotle from Albert. A well-known one is that with regard to Aristotle's
+assertion that lunar rainbows appeared only twice in fifty years. Albert
+declared that he himself had seen two in a single year.
+
+Galen, after Aristotle, was the author oftenest quoted in the Middle
+Ages, and most revered. Anyone who wants to understand this medieval
+reverence needs only to read Galen. There has probably never been a
+greater clinical observer in all the world than this Greek from Pergamos,
+whose works were destined to have so much influence for a millennium and a
+half after his time. How well he deserved this prestige only a careful
+study of his writings will reveal. It is simply marvellous what he had
+seen and writes about. Anatomy, physiology, pathological anatomy,
+diagnosis, therapeutics--all these were magnificently developed under his
+hands, and he has left a record of accurate and detailed observation.
+There are many absurdities easily to be seen in his writings now, but no
+one has yet written on medicine in any large way who has avoided
+absurdities, nor can anyone hope to, until we know much more of the
+medical sciences than at present. The therapeutics of any generation is
+always absurd to the second succeeding generation, it has been said. Those
+in the modern time who know their Galen best have almost as much
+admiration for him, in spite of all our advance in the knowledge of
+medicine, as the medieval people had. No wonder, seeing the depth and
+breadth of his knowledge, that he was thought so much of, and that men
+hesitated to contravene anything that he said.
+
+Even in the authorities to which they turned with so much confidence, the
+medieval physicians are admirable. If man must depend on authority, then
+he could not have better than they had. As with regard to this, so in all
+other matters relating to the Middle Ages, the ordinarily accepted notions
+prove to have been founded on ignorance of actual details, and
+misconceptions as to the true significance of their point of view. To have
+contempt give way to admiration, we need only to know the realities even
+in such meagre details as can be given in a short manual of this kind. The
+thousand years of the Middle Ages are now seen to have been full of
+interesting and successful efforts in every mode of human activity, and
+medicine and surgery shared in this to the full.
+
+
+
+
+CHAPTER II
+
+EARLY MEDIEVAL MEDICINE
+
+
+There are two distinct periods in the history of Medieval Medicine. The
+first concerns the early centuries, from the sixth to the ninth, and is
+occupied mainly with the contributions to medicine made by those who were
+still in touch with the old Greek writers; while the second represents the
+early Renaissance, when the knowledge of the Greek writers was gradually
+filtering back again, sometimes through the uncertain channel of the
+Arabic. Both periods contain contributions to medicine that are well
+worthy of consideration, and nearly always the writings that have been
+preserved for us demonstrate the fact that men were thinking for
+themselves as well as studying the Greek writers, and were making
+observations and garnering significant personal experience. The later
+Middle Ages particularly present material in this regard of far greater
+interest than was presumed to exist until comparatively recent historical
+studies were completed.
+
+The real history of medicine in the Middle Ages--that is, of scientific
+medicine--is eclipsed by the story of popular medicine. So much has been
+said of the medical superstitions, many of which were rather striking,
+that comparatively little space has been left for the serious medical
+science and practice of the time, which contain many extremely interesting
+details. It is true that after the Crusades mummy was a favourite
+pharmacon, sometimes even in the hands of regular physicians; and _Usnea_,
+the moss from the skulls of the bodies of criminals that had been hanged
+and exposed in chains, was declared by many to be a sovereign remedy for
+many different ills; but it must not be forgotten that both of these
+substances continued to be used long after the medieval period, mummy even
+down to the middle of the eighteenth century, and Usnea almost as late.
+Indeed, it is probable that the seventeenth and eighteenth centuries
+present many more absurdities in therapeutics than do the later centuries
+of the Middle Ages. In this, as in so many other regards, the modern use
+of the adjective medieval has been symbolic of ignorance of the time
+rather than representative of realities in history.
+
+Popular medicine is always ridiculous, though its dicta are often accepted
+by supposedly educated people. This has always been true, however, and was
+never more true than in our own time, when the vagaries of medical faddism
+are so strikingly illustrated, and immense sums of money spent every year
+in the advertising of proprietary remedies, whose virtues are often sadly
+exaggerated, and whose tendency to work harm rather than good is
+thoroughly appreciated by all who know anything about medicine. The
+therapeutics of supposedly scientific medicine are often dubious enough. A
+distinguished French professor of physiology quoted, not long since, with
+approval, that characteristic French expression: "The therapeutics of any
+generation are always absurd to the second succeeding generation." When we
+look back on the abuse of calomel and venesection a century ago, and of
+the coal-tar derivatives a generation ago, and the overweening confidence
+in serums and vaccines almost in our own day, it is easy to understand
+that this law is still true. We can only hope that our generation will not
+be judged seven centuries from now by the remedies that were accepted for
+a time, and then proved to be either utterly ineffectual or even perhaps
+harmful to the patients to whom they were given.
+
+When we turn our attention away from this popular pseudo-history of
+Medieval Medicine, which has unfortunately led so many even well-informed
+persons into entirely wrong notions with regard to medical progress during
+an important period, we find much that is of enduring interest. The first
+documents that we have in the genuine history of Medieval Medicine, after
+the references to the organizations of Christian hospitals at Rome and
+Asia Minor in the fourth and fifth centuries (see chapter Medieval
+Hospitals), are to be found in the directions provided in the rules of the
+religious orders for the care of the ailing. St. Benedict (480-543), the
+founder of the monks of the West, was particularly insistent on the
+thorough performance of this duty. The rule he wrote to guide his
+religious is famous in history as a great constitution of democracy, and
+none of its provisions are more significant than those which relate to the
+care of the health of members of the community.
+
+One of the rules of St. Benedict required the Abbot to provide in the
+monastery an infirmary for the ailing, and to organize particular care of
+them as a special Christian duty. The wording of the rule in this regard
+is very emphatic. "The care of the sick is to be placed above and before
+every other duty, as if, indeed, Christ were being directly served in
+waiting on them. It must be the peculiar care of the Abbot that they
+suffer from no negligence. The Infirmarian must be thoroughly reliable,
+known for his piety and diligence and solicitude for his charge." The last
+words of the rule are characteristic of Benedict's appreciation of
+cleanliness as a religious duty, though doubtless also the curative effect
+of water was in mind. "Let baths be provided for the sick as often as they
+need them." As to what the religious infirmarians knew of medicine, at
+least as regards the sources of their knowledge and the authors they were
+supposed to have read, we have more definite information from the next
+historical document, that concerning medical matters in the religious
+foundation of Cassiodorus.
+
+Cassiodorus (468-560), who had been the prime minister of the Ostrogoth
+Emperors, when he resigned his dignities and established his monastery at
+Scillace in Calabria, was influenced deeply by St. Benedict, and was
+visited by the saint not long after the foundation.
+
+His rule was founded on that of the Benedictines. Like that, it insisted
+especially on the care of the sick, and the necessity for the deep study
+of medicine on the part of those who cared for them. Cassiodorus laid down
+the law in this regard as follows: "I insist, brothers, that those who
+treat the health of the body of the brethren who have come into the sacred
+places from the world should fulfil their duties with exemplary piety. Let
+them be sad with others' suffering, sorrowful over others' dangers,
+sympathetic to the grief of those whom they have to care for, and always
+ready zealously to help others' misfortunes. Let them serve with sincere
+study to help those who are ailing as becomes their knowledge of medicine,
+and let them look for their reward from Him who can compensate temporal
+work by eternal wages. Learn, therefore, the nature of herbs, and study
+diligently the way to combine their various species for human health; but
+do not place your entire hope on herbs, nor seek to restore health only by
+human counsels. Since medicine has been created by God, and since it is He
+who gives back health and restores life, turn to Him. Remember, do all
+that you do in word or deed in the name of the Lord Jesus, giving thanks
+to God the Father through Him. And if you are not capable of reading
+Greek, read above all the translations of the Herbarium of Dioscorides,
+which describes with surprising exactness the herbs of the field. After
+this, read translations of Hippocrates and Galen, especially the
+Therapeutics, and Aurelius Celsus' 'De Medicina,' and Hippocrates' 'De
+Herbis et Curis,' and divers other books written on the art of medicine,
+which by God's help I have been able to provide for you in my library."
+
+The monasteries are thus seen to have been in touch with Greek medicine
+from the earliest medieval time. The other important historical documents
+relating to Medieval Medicine which we possess concern the work of the
+men born and brought up in Asia Minor, for whom the Greeks were so close
+as to be living influences. Aëtius, Alexander of Tralles, and Paul of
+Ægina have each written a series of important chapters on medical
+subjects, full of interest because the writers knew their Greek classic
+medicine, and were themselves making important observations. Aëtius, for
+instance, had a good idea of diphtheria. He speaks of it in connection
+with other throat manifestations under the heading of "crusty and
+pestilent ulcers of the tonsils." He divides the anginas generally into
+four kinds. The first consists of inflammation of the fauces with the
+classic symptoms; the second presents no inflammation of the mouth nor of
+the fauces, but is complicated by a sense of suffocation--apparently our
+neurotic croup. The third consists of external and internal inflammation
+of the mouth and throat, extending towards the chin. The fourth is an
+affection rather of the neck, due to an inflammation of the
+vertebræ--retropharyngeal abscess--which may be followed by luxation, and
+is complicated by great difficulty of respiration. All of these have as a
+common symptom difficulty of swallowing. This is greater in one variety
+than in another at different times. In certain affections he remarks that
+even "drinks when taken are returned through the nose."
+
+Aëtius declares quite positively that all the tumours of the neck region,
+with the exception of scirrhus, are easily cured, yielding either to
+surgery or to remedies. The exception is noteworthy. He evidently saw a
+good many of the functional disturbances and the enlargements of the
+thyroid gland, which are often so variable in character as apparently to
+be quite amenable to treatment, and which have actually been "cured" in
+the history of medicine by all sorts of things from the touch of the
+hangman's rope to the wrapping of the shed skin of the snake around the
+neck. A few cervical tumours were beyond resource. Aëtius suggests the
+connection between hypertrophy of the clitoris and certain exaggerated
+manifestations of the sexual instinct, as well as the development of
+vicious sexual habits.
+
+It requires only a little study of this early medieval author to
+understand why Cornelius, at the time of the Renaissance, was ready to
+declare: "Believe me, that whoever is deeply desirous of studying things
+medical, if he would have the whole of Galen abbreviated and the whole of
+Orbiasius extended, and the whole of Paulus (of Ægina) amplified; if he
+would have all the special remedies of the old physicians, as well in
+pharmacy as in surgery, boiled down to a summa for all affections, he will
+find it in Aëtius."
+
+Alexander of Tralles was, as we have said, the brother of the architect of
+Santa Sophia of Constantinople, and his writings on medical and surgical
+subjects are worthy of such a relationship. His principal work is a
+treatise on the "Pathology and Therapeutics of Internal Diseases" in
+twelve books, the first eleven books of which were evidently material
+gathered for lectures or teaching purposes. He treats of cough as a
+symptom due to hot or cold, dry or wet, dyscrasias. Opium preparations
+judiciously used he thought the best remedies, though he recommended also
+the breathing in of steam impregnated with various ethereal resins.
+
+He outlines a very interesting because thoroughly modern treatment of
+consumption. He recommends an abundance of milk with a hearty nutritious
+diet, as digestible as possible. A good auxiliary to this treatment in his
+opinion was change of air, a sea voyage, and a stay at a watering-place.
+Ass's and mare's milk are much better for these patients than cow's and
+goat's milk. We realize now that there is not enough difference in the
+composition of these various milks to make their special prescription of
+physical importance, but it is probable that the suggestive influence of
+the taking of an unusual milk had a very favourable effect upon patients,
+and this effect was renewed with every drink taken, so that much good was
+ultimately accomplished. For hæmoptysis, especially when it was acute and
+due, as Alexander felt, to the rupture of a bloodvessel in the lungs, he
+recommended the opening of a vein at the elbow or the ankle--in order to
+divert the blood from the place of rupture to the healthy parts of the
+circulation. He insisted, however, that the patients must in addition
+rest, as well as take acid and astringent drinks, while cold compresses
+should be placed upon the chest [our ice-bags], and that they should take
+only a liquid diet, at most lukewarm, or, better, if agreeable to them,
+cold. When the bleeding stopped, he declared a milk cure [blood-maker]
+very useful for the restoration of these patients to their former
+strength.
+

@@ -1,0 +1,202 @@
+The Project Gutenberg EBook of On the Natural Faculties, by Galen
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: On the Natural Faculties
+
+Author: Galen
+
+Translator: Arthur John Brock
+
+Release Date: August 2, 2013 [EBook #43383]
+
+Language: English
+
+Character set encoding: UTF-8
+
+
+
+If the work of Hippocrates be taken as representing the foundation
+upon which the edifice of historical Greek medicine was reared, then
+the work of Galen, who lived some six hundred years later, may be
+looked upon as the summit or apex of the same edifice. Galen’s merit
+is to have crystallised or brought to a focus all the best work of the
+Greek medical schools which had preceded his own time. It is
+essentially in the form of Galenism that Greek medicine was
+transmitted to after ages.
+
+[Sidenote: The Beginnings of Medicine in Greece.]
+
+The ancient Greeks referred the origins of medicine to a god Asklepios
+(called in Latin Aesculapius), thereby testifying to their
+appreciation of the truly divine function of the healing art. The
+emblem of Aesculapius, familiar in medical symbolism at the present
+day, was a staff with a serpent coiled round it, the animal typifying
+wisdom in general, and more particularly the wisdom of the
+medicine-man, with his semi-miraculous powers over life and death.
+
+“_Be ye therefore wise as serpents and harmless as doves._”
+
+[Sidenote: The Asclepiea or Health-Temples.]
+
+The temples of Aesculapius were scattered over the ancient Hellenic
+world. To them the sick and ailing resorted in crowds. The treatment,
+which was in the hands of an hereditary priesthood, combined the best
+of the methods carried on at our present-day health-resorts, our
+hydropathics, sanatoriums, and nursing-homes. Fresh air, water-cures,
+massage, gymnastics, psychotherapy, and natural methods in general
+were chiefly relied on.
+
+[Sidenote: Hippocrates and the Unity of the Organism.]
+
+Hippocrates, the “Father of Medicine” (5th to 4th centuries, B.C.) was
+associated with the Asclepieum of Cos, an island off the south-west
+coast of Asia Minor, near Rhodes. He apparently revitalized the work
+of the health-temples, which had before his time been showing a
+certain decline in vigour, coupled with a corresponding excessive
+tendency towards sophistry and priestcraft.
+
+Celsus says: “_Hippocrates Cous primus quidem ex omnibus memoria
+dignis ab studio sapientiae disciplinam hanc separavit._” He means
+that Hippocrates first gave the physician an independent standing,
+separating him from the cosmological speculator. Hippocrates confined
+the medical man to medicine. He did with medical thought what Socrates
+did with thought in general—he “brought it down from heaven to
+earth.” His watchword was “Back to Nature!”
+
+At the same time, while assigning the physician his post, Hippocrates
+would not let him regard that post as sacrosanct. He set his face
+against any tendency to mystery-mongering, to exclusiveness, to
+sacerdotalism. He was, in fact, opposed to the spirit of
+trade-unionism in medicine. His concern was rather with the
+physician’s duties than his “rights.”
+
+At the dawn of recorded medical history Hippocrates stands for the
+fundamental and primary importance of _seeing clearly_—that is of
+_clinical observation_. And what he observed was that the human
+organism, when exposed to certain abnormal conditions—certain
+stresses—tends to behave in a certain way: that in other words, each
+“disease” tends to run a certain definite course. To him a disease was
+essentially a process, one and indivisible, and thus his practical
+problem was essentially one of _prognosis_—“what will be the natural
+course of this disease, if left to itself?” Here he found himself to
+no small extent in opposition with the teaching of the neighbouring
+medical school of Cnidus, where a more static view-point laid special
+emphasis upon the minutiae of _diagnosis_.
+
+Observation taught Hippocrates to place unbounded faith in the
+recuperative powers of the living organism—in what we sometimes call
+nowadays the _vis medicatrix Naturae_. His observation was that even
+with a very considerable “abnormality” of environmental stress the
+organism, in the large majority of cases, manages eventually by its
+own inherent powers to adjust itself to the new conditions. “Merely
+give Nature a chance,” said the father of medicine in effect, “and
+most diseases will cure themselves.” And accordingly his treatment
+was mainly directed towards “giving Nature a chance.”
+
+His keen sense of the solidarity (or rather, of the constant
+interplay) between the organism and its environment (the “conditions”
+to which it is exposed) is instanced in his book, “Airs, Waters, and
+Places.” As we recognise, in our popular everyday psychology, that “it
+takes two to make a quarrel,” so Hippocrates recognised that in
+pathology, it takes two (organism and environment) to make a disease.
+
+As an outstanding example of his power of clinical observation we may
+recall the _facies Hippocratica_, an accurate study of the countenance
+of a dying man.
+
+His ideals for the profession are embodied in the “Hippocratic oath.”
+
+[Sidenote: Anatomy.]
+
+Impressed by this view of the organism as a unity, the Hippocratic
+school tended in some degree to overlook the importance of its
+constituent _parts_. The balance was re-adjusted later on by the
+labours of the anatomical school of Alexandria, which, under the aegis
+of the enlightened Ptolemies, arose in the 3rd century B.C. Two
+prominent exponents of anatomy belonging to this school were
+Herophilus and Erasistratus, the latter of whom we shall frequently
+meet with in the following pages (_v._ p. 95 _et seq._).
+
+[Sidenote: The Empirics.]
+
+After the death of the Master, the Hippocratic school tended, as so
+often happens with the best of cultural movements, to show signs
+itself of diminishing vitality: the letter began to obscure and hamper
+the spirit. The comparatively small element of theory which existed in
+the Hippocratic physiology was made the groundwork of a somewhat
+over-elaborated “system.” Against this tendency on the part of the
+“Dogmatic” or “Rationalist” school there arose, also at Alexandria,
+the sect of the Empiricists. “It is not,” they said, “the cause but
+the cure of diseases that concerns us; not how we digest, but what is
+digestible.”
+
+[Sidenote: Greek Medicine in Rome.]
+
+Horace said “_Graecia capta ferum victorem cepit_.” Political
+domination, the occupation of territory by armies, does not
+necessarily mean real conquest. Horace’s statement applied to medicine
+as to other branches of culture.
+
+The introducer of Greek medicine into Rome was Asclepiades (1st
+century B.C.). A man of forceful personality, and equipped with a
+fully developed philosophic system of health and disease which
+commended itself to the Roman _savants_ of the day, he soon attained
+to the pinnacle of professional success in the Latin capital: he is
+indeed to all time the type of the fashionable (and somewhat “faddy”)
+West-end physician. His system was a purely mechanistic one, being
+based upon the atomic doctrine of Leucippus and Democritus, which had
+been completed by Epicurus and recently introduced to the Roman public
+in Lucretius’s great poem “_De Rerum Natura_.” The disbelief of
+Asclepiades in the self-maintaining powers of the living organism are
+exposed and refuted at considerable length by Galen in the volume
+before us.
+
+[Sidenote: The Methodists.]
+
+Out of the teaching of Asclepiades that physiological processes depend
+upon the particular way in which the ultimate indivisible molecules come
+together (ἐν τῇ ποίᾳ συνόδῳ τῶν πρώτων ἐκείνων σωμάτων τῶν άπαθῶν) there
+was developed by his pupil, Themison of Laodicea, a system of medicine
+characterised by the most engaging simplicity both of diagnosis and
+treatment. This so-called “Methodic” system was intended to strike a
+balance between the excessive leaning to apriorism shown by the
+Rationalist (Hippocratic) school and the opposite tendency of the
+Empiricists. “A pathological theory we must have,” said the Methodists
+in effect, “but let it be simple.” They held that the molecular groups
+constituting the tissues were traversed by minute channels (πόροι,
+“pores”); all diseases belonged to one or other of two classes; if the
+channels were constricted the disease was one of _stasis_ (στέγνωσις),
+and if they were dilated the disease was one of _flux_ (ῥύσις). Flux and
+stasis were indicated respectively by increase and diminution of the
+natural secretions; treatment was of opposites by opposites—of stasis
+by methods causing dilatation of the channels, and conversely.
+
+Wild as it may seem, this pathological theory of the Methodists
+contained an element of truth; in various guises it has cropped up
+once and again at different epochs of medical history; even to-day
+there are pathologists who tend to describe certain classes of disease
+in terms of vaso-constriction and vaso-dilatation. The vice of the
+Methodist teaching was that it looked on a disease too much as
+something fixed and finite, an independent _entity_, to be considered
+entirely apart from its particular setting. The Methodists illustrate
+for us the tyranny of _names_. In its defects as in its virtues this
+school has analogues at the present day; we are all acquainted with
+the medical man to whom a name (such, let us say, as “tuberculosis,”
+“gout,” or “intestinal auto-intoxication”) stands for an entity, one
+and indivisible, to be treated by a definite and unvarying formula.
+
+To such an individual the old German saying “_Jedermann hat am Ende
+ein Bischen Tuberkulose_” is simply—incomprehensible.
+
+[Sidenote: Galen.]
+
+All the medical schools which I have mentioned were still holding
+their ground in the 2nd century A.D., with more or less popular
+acceptance, when the great Galen made his entry into the world of
+Graeco-Roman medicine.
+

@@ -1,0 +1,312 @@
+The Project Gutenberg EBook of Medical Jurisprudence, Forensic medicine
+and Toxicology  - vol 1 of 4, by Rudolph August Witthaus and Tracy Chatfield Becker
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+Title: Medical Jurisprudence, Forensic medicine and Toxicology  - vol 1 of 4
+
+Author: Rudolph August Witthaus
+        Tracy Chatfield Becker
+
+Release Date: May 23, 2015 [EBook #49027]
+
+Language: English
+
+Character set encoding: UTF-8
+
+
+
+Medical legislation was not more advanced during the ascendancy of
+the Roman Empire, although medical science was greatly developed,
+principally by the labors of Celsus, and of Galen and other Greek
+physicians. A few cases are mentioned by the historians which would
+seem to indicate a closer connection between law and medicine than
+had existed among the Greeks, but they refer rather to the custom of
+exposing the bodies of those who had died by violent means to public
+view, in order that any one might express his opinion as to the cause
+of death, than to any appeal to medical science in the administration
+of justice. Thus Suetonius[19] says that the physician Antistius
+examined the dead body of Julius Cæsar (B.C. 44), and declared that of
+all the wounds only that received in the breast was mortal.
+
+Pliny[20] cites an early instance of contested interpretation of
+post-mortem appearances in the case of Germanicus, who died A.D.
+19, by the action of poison, said the enemies of Piso, because the
+heart did not burn. The friends of Piso, while admitting the fact
+of non-consumption, attributed it to the deceased having had heart
+disease. The same author[21] quotes Masurius as having declared a child
+born after thirteen (lunar) months to be legitimate, in an action for
+the possession of property, on the ground that no certain period of
+gestation was fixed. The Emperor Hadrian (A.D. 117-138), according to
+Gellius, sought medical information in a similar case, and decreed the
+legitimacy of a child born in the eleventh (lunar) month, “after having
+considered the opinions of ancient philosophers and physicians.”[22]
+
+Although the Justinian collections, the “Codex” (A.D. 529), the
+“Institutes” (A.D. 533), the “Digests,” or “Pandects” (A.D. 534),
+and the “Novels” (A.D. 535-564), prepared by the best legal talent
+of the age, under the direction of Tribonian, do not provide for the
+summoning of physicians as witnesses; they contain an expression which
+indicates that at that time the true function of the medical expert
+was more correctly appreciated than it is to-day. His function was
+stated to be judicial rather than that of a witness.[23] There is
+also a provision that in cases of contested pregnancy, midwives (who
+were considered as belonging to the medical profession) should, after
+examination of the woman, determine whether or no pregnancy exist, and
+that their determination should be final. The practice of medicine,
+surgery, and midwifery was regulated. Those desiring to practise must
+have been found competent by an examination. The number of physicians
+in each town was limited. They were divided into classes, and were
+subject to the government of the Archiatri. Penalties were imposed upon
+those guilty of malpractice or of poisoning. The Justinian enactments
+contain abundant internal evidence of having been framed in the light
+of medical knowledge. They contain provisions relating to sterility
+and impotence, rape, disputed pregnancy, legitimacy, diseased mental
+conditions, presumption of survivorship, poisoning, etc., which
+indicate that the medical knowledge of the time was fully utilized in
+their construction.[24]
+
+The Germanic peoples at about the same period possessed codes in
+which traces of a rudimentary medical jurisprudence existed. The most
+ancient of these was the Salic law (A.D. 422), in which the penalties
+to be paid for wounds of different kinds are fixed. The Ripuarian law,
+of somewhat later date, takes cognizance of the crime of poisoning.
+The laws of the Bavarians, Burgundians, Frisians, Thuringians, and
+Visigoths contain practically nothing of medico-legal interest. The Lex
+Alamannorum has numerous provisions relating to wounds, and expressly
+provides that the gravity of the injury shall be determined by a
+physician.[25]
+
+During the period of about a thousand years, intervening between
+the Justinian and Caroline (_vide infra_) codes, the advancement of
+medicine and jurisprudence suffered almost complete arrest. The guilt
+or innocence of an accused person was determined rather by his own
+confession under torture, or by “the judgment of God” as shown by
+ordeal or by judicial combat, than by testimony either expert or of
+fact.
+
+Even during the night of the Middle Ages, instances are recorded in
+which the opinions of physicians were sought to determine questions of
+fact in judicial proceedings.
+
+In the duchy of Normandy, in 1207-45, the laws provided for the
+examination of those claiming to be sick (to evade military service or
+appeal to judicial duel), of persons killed, and of women.[26]
+
+In a decretal of Innocent III., in 1209, the question whether a certain
+wound was mortal was determined by physicians.[27]
+
+There is extant in the statutes of the city of Bologna, under date of
+1249, an entry to the effect that Hugo di Lucca had been assigned the
+duty, when called upon by the podesta, and after having been sworn, to
+furnish a true report in legal cases.[28]
+
+In the kingdom of Jerusalem (_ca._ 1250) a person claiming exemption
+from trial by battle because of sickness or of wounds was visited by
+a physician (_fisicien au miége_) and a surgeon (_sérorgien_), who
+examined him and made oath as to his condition.[29]
+
+Sworn surgeons to the king are also mentioned in letters patent of
+Philippe le Hardi in 1278, of Philippe le Bel in 1311, and of Jean II.
+in 1352.[30] That of Philippe le Bel refers to Jean Pitardi as one of
+“his well-beloved sworn surgeons in his Chastelet of Paris,” whose
+functions are partly indicated by the extracts from the registers given
+below.
+
+The registers of the Châtelet at Paris from 1389 to 1392 record several
+instances in which medical aid was rendered in judicial proceedings.
+Under date of March 22d, 1389-90, “Maître Jehan Le Conte, sworn surgeon
+to the king our sire,” reports to Maître Jehan Truquam, lieutenant to
+the provost, that “upon that day in the morning one Rotisseur had gone
+from life unto death in consequence of the wounds which he had received
+on the Monday evening preceding.”[31] Under date of July 22d, 1390,
+is an account of the examination of one Jehan le Porchier, accused of
+intent to poison the king (Charles VI.), in which there is reference
+to a very early instance of toxicological expert evidence. In the
+wallet of the accused certain herbs were found. The account proceeds:
+“Richart de Bules, herbalist, was summoned, to him the above-mentioned
+herbs were shown, and he was commanded that he should examine them and
+consider well and duly, reporting the truth of what he should find.
+The said Richart, after having examined them with great diligence,
+reported that in the box in which these herbs were he had found six
+leaves, namely: one leaf of _jacia nigra_, and one of round plantain,
+called in Latin _plantago minor_, and four of sow-thistle (_lasseron_),
+called in Latin _rosti poterugni_, and says that the leaf of _jatria
+nigra_ is poisonous, but that in the others there is no poison known
+to the deponent.”[32] On August 12th, 1390, “Jehan Le Conte and Jehan
+Le Grant, sworn surgeons of our sire the king,” are present at the
+torture of a prisoner, but for what purpose does not appear. In another
+case the same Jehan Le Conte testified that a wound in the head of a
+deceased person was made with an axe.[33] At a later period in Italy,
+the infliction of “the question” took place under medical supervision.
+Zacchias devotes a chapter, _De Tormentis et Pœnis_,[34] to the
+consideration of the different methods of torture, the degrees of pain
+and danger attending each, and the conditions of age, sex, and health
+which render its application inadmissible.[35]
+
+During this period, as indeed from the earliest times, the practice
+of medicine was regulated by law. Thus a law of King Roger of Sicily
+(1129-54) punished those who practised medicine without authority with
+imprisonment and confiscation of goods; and an edict of Frederick II.
+(1215-46) imposed like penalties upon those who presumed to practise
+except after graduation at the school of Salernum.[36]
+
+Medico-legal science was formed in the middle of the sixteenth century
+by a simultaneous awakening of jurists and physicians to the importance
+of the subject.
+
+It was in Germany that expert medical testimony was first legally
+recognized. In 1507, George, Bishop of Bamberg, proclaimed a criminal
+code in his domains. This was subsequently adopted by other German
+states, and finally was the model upon which the _Caroline Code_, the
+first general criminal code applying to the whole empire, was framed
+and proclaimed at the Diet of Ratisbon in 1532.[37]
+
+These codes, particularly the Caroline, distinctly provide for
+utilizing the testimony of physicians. Wounds are to be examined by
+surgeons who are “to be used as witnesses;”[38] and in case of death
+one or more surgeons are to “examine the dead body carefully before
+burial.”[39] They also contain provisions for the examination of women
+in cases of contested delivery, or suspected infanticide;[40] for the
+regulation of the sale of poisons;[41] for the detection and punishment
+of malpractice;[42] and for examination into the mental condition in
+cases of suicide and of crime.[43]
+
+An early work on the practice of criminal law, based on the Caroline
+Code, was published by the Flemish jurist, Josse de Damhouder, in 1554.
+It contains a chapter treating of the lethality of wounds, which should
+be determined by expert physicians and surgeons,[44] and describes
+the course which is to be pursued in the judicial examination of dead
+bodies. This is probably the earliest printed book (other than the laws
+themselves) containing reference to medico-legal examinations,[45] and
+antedates the writings of physicians upon the subject.
+
+Although it was only in 1670 that the Ordinances of Louis XIV. gave
+to France a uniform criminal code, medico-legal reports were made by
+physicians and surgeons to the courts more than a century before.
+Indeed, the earliest medico-legal work written by a physician[46] is
+the 27th book of the Œuvres d’Ambroise Paré, first printed in 1575,
+in which he directs the forms in which judicial reports shall be
+made in various medico-legal cases.[47] During the remainder of the
+sixteenth century France produced but three treatises on medico-legal
+subjects.[48] One of these, written by the jurist A. Hotman, distinctly
+mentions the employment of physicians to determine questions of fact.
+
+In Italy works on medical jurisprudence were published at the close of
+the sixteenth and beginning of the seventeenth century. The earliest
+of these was a chapter of Codronchius, treating of the “method of
+testifying in medical cases,” in 1597.[49] At about the same time, but
+certainly later, appeared the work of Fortunatus Fidelis, to whom the
+honor of being the first writer on medical jurisprudence is given by
+many.[50]
+
+The great work of Paulus Zacchias, physician to Pope Innocent X., was
+first printed at Rome, 1621-35. This medico-legal classic contains
+in the first two volumes the “_Quæstiones_” and in the third the
+decisions of the Roman Rota. It treats of every branch of medico-legal
+science, and discusses physiological questions of legal interest,
+besides dealing with questions such as the infliction of torture and
+miracles.[51]
+
+Although the “Quæstiones Medico-legales” of Zacchias was the first
+systematic work upon medical jurisprudence, his countrymen in
+succeeding centuries have contributed but little to this science. It is
+only during the latter part of the present century that Italians have
+again become prominent in medico-legal literature.
+
+In France legal medicine progressed but little from the time of Paré to
+the latter part of the eighteenth century. Several treatises appeared,
+being chiefly upon legitimacy and kindred subjects,[52] with a few
+treating of reports, signs of death, etc.[53]
+
+Toward the end of the eighteenth century the labors of Louis, Petit,
+Chaussier, and Fodéré elevated legal medicine to the rank of a science.
+The investigations of Louis (Ant. L.) were numerous and important in
+this as in other subjects,[54] and the “_causes célébres_” contain
+reports of many trials in which he threw light upon doubtful medical
+questions.[55] Antoine Petit, a contemporary of Louis, contributed an
+extensive work on the duration of pregnancy as affecting legitimacy.[56]
+
+Somewhat later Fr. B. Chaussier, between 1785 and 1828, published
+at Dijon a number of treatises on infanticide, viability, surgical
+malpractice, etc.[57] Fodéré, a Savoyard, was the first to publish a
+systematic treatise on medical jurisprudence in France, which was first
+printed in 1798 and in a much enlarged form in 1813.[58] This last
+edition is an exhaustive treatise upon all branches of legal medicine
+and public hygiene, and won for its author the appointment as Professor
+of Forensic Medicine in the University of Strassburg.
+
+At about the same period appeared the works of Mahon[59] and of
+Belloc,[60] both of which went through three editions in ten years, and
+those of Biessy.[61]
+
+The most industrious and original of French professors of legal
+medicine was Orfila. A native of Minorca, he graduated in medicine
+at Paris in 1811, and devoting himself to chemical and toxicological
+investigations, published the first edition of his “Traité des
+Poisons” in 1814. This work, which may be regarded as the foundation
+of experimental and forensic toxicology, went through five editions
+to 1852, and was translated into several foreign languages. The first
+edition of his “Leçons de Médecine légale” appeared in 1821, and the
+fourth in 1848. Besides these Orfila published a work on the treatment
+of asphyxia and a great number of papers on medico-legal subjects,
+principally in the _Annales d’Hygiène_, of which he was one of the
+founders with Andral, Esquirol, Leuret, and Devergie. Orfila occupied
+the chair of chemistry and medical jurisprudence in the University
+of Paris for upward of thirty years, and was employed as expert in
+innumerable cases before the courts.
+
+Contemporaneous with Orfila, and almost as prominent, was Devergie, the
+first edition of whose “Médecine légale,” in three volumes, appeared in
+1836, and the third in 1852.
+
+In 1820 the first edition of the Manual of Briand and Brosson was
+published. This work, the tenth edition of which was published in 1879,
+is the first in which a jurist was associated with a physician in the
+authorship,[62] and is one of five of which one of the authors is a
+lawyer.[63]
+
+Special treatises on the medico-legal relations of insanity were
+published by Georget (1821), Falvet (1828), Esquirol (1838), and Marc
+(1840), and on midwifery by Capuron (1821).
+
+Tardieu, Professor of Legal Medicine in the University of Paris
+(1861-79), published a most important series of monographs on hygienic
+and medico-legal subjects,[64] besides many papers, principally in the
+_Annales d’Hygiène_, _etc._, and testified before the courts in many
+“_causes célébres_.”
+
+The first work of medico-legal interest to appear in Germany was the
+“Medicus-Politicus” of Rodericus à Castro, a Portuguese Jew living in
+Hamburg, printed in 1614, which deals principally with medical ethics
+and the relations of physicians, but contains chapters on simulated
+diseases, poisoning, wounds, drowning, and virginity.[65]
+
+It was only toward the end of the seventeenth century that the
+subject was scientifically treated, and during the latter part of
+the seventeenth century and the beginning of the eighteenth great
+progress was made in the development of forensic medicine in Germany.
+Johannes Bohn, one of the originators of the experimental method of
+investigation in physiological chemistry and physics, at the University
+of Leipzig, was also one of the earliest German contributors to the
+literature of legal medicine. Besides smaller works he published two
+noteworthy treatises: in 1689 a work on the examination of wounds
+and the distinction between ante-mortem and post-mortem wounds, and
+between death by injury, strangulation, and drowning.[66] In 1704 a
+work giving rules for the conduct of physicians in attending the sick
+and in giving evidence in the courts.[67] At about the same period M.
+B. Valentini, professor in the University of Giessen, published three
+important works, containing collections of medico-legal cases, and of
+the opinions and decisions of previous writers.[68] Another extensive
+collection of cases and decisions was published in 1706 by J. F.
+Zittmann, from a MS. left by Professor C. J. Lange, of the University
+of Leipzig;[69] and still another by J. S. Hasenest[70] appeared in
+1755.
+

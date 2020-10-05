@@ -1,0 +1,281 @@
+The Project Gutenberg EBook of Triumphs and Wonders of the 19th Century, by 
+James P. Boyd
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+Title: Triumphs and Wonders of the 19th Century
+       The True Mirror of a Phenomenal Era
+
+Author: James P. Boyd
+
+Release Date: August 20, 2017 [EBook #55390]
+
+Language: English
+
+Character set encoding: UTF-8
+
+After a lapse of more than two thousand years from the experiment of
+Thales, Dr. Gilbert, physician to Queen Elizabeth (A. D. 1533–1603),
+took up the study of amber and various other substances which, when
+subjected to friction, acquired the property of first, attracting
+and then repelling light bodies brought near them. He published his
+observations in a little book called “De Magnete,” in the year A. D.
+1600, and thus became the first author of a work upon electricity. In
+this unique and initial work upon simple electrical effects, the author
+added greatly to the number of substances that could be electrified by
+friction, and succeeded in establishing the different degrees of force
+with which they could be made to attract or repel light bodies brought
+near them.
+
+Fortunately for electrical science, and for that matter all sciences,
+about this time the influence of Lord Bacon’s Inductive Philosophy
+began to be felt by investigators and scientific men. Before that,
+the causes of natural phenomena had not been backed up by repeated
+experiments amounting to practical proofs, but had been accounted
+for, if at all, by sheer guesses or whimsical reasons. Bacon’s method
+introduced hard, cold, constant experiment as the only sure means of
+finding out exactly the causes of natural phenomena; and not only this,
+but the necessity of series upon series of experiments, each based
+upon the results of the former, and so continuing, link by link, till,
+from a comparison of the whole, some general principle or truth could
+be drawn that applied to all. This _inductive_ method of scientific
+research gave great impetus to the study of every branch of science,
+and especially to the unfolding of infallible and practical laws
+governing the phenomena of nature.
+
+For very many years electrical experiments followed the lines laid
+down by Dr. Gilbert; that is, the finding of substances that could be
+excited or electrified by friction. By and by such substances came to
+be called _electrics_, and it became a part of the crude electrical
+science of the time to compute the force with which these electrics,
+when excited, attracted or repelled other substances near them.
+Among the ablest of these investigators were Robert Boyle, author of
+“Experiments on the Origin of Electricity,” Sir Isaac Newton, Otto
+von Guericke, and Francis Hawksbee, the last of whom communicated his
+experiments to the English Royal Society in 1705. Otto von Guericke
+used a hard roll of sulphur as an electric. He caused it to revolve
+rapidly while he rubbed or excited it with his hand. Newton and
+Hawksbee used a revolving glass globe in the same way, and thus became
+the parents of the modern and better equipped electrical machine used
+for school purposes.
+
+The next step in electrical discovery, and one which marks an epoch in
+the history of the science, was made by Stephen Gray, of England, in
+1729. To him is due the credit of finding out that electricity from an
+excited glass cylinder could be conducted away from it to objects at a
+remote distance. Though he used only a packthread as a conductor, he
+thus carried electricity to a distance of several hundred feet, and his
+novel discovery opened up what, for the time, was a brilliant series
+of experiments in England and throughout France and Germany. Out of
+these experiments came the knowledge that some substances were natural
+conductors of electricity, while others were non-conductors; and that
+the non-conductors were the very substances—glass, resin, sulphur,
+etc.—which were then in popular use as electrics. Here was laid the
+foundation of those after-discoveries which led to the selection of
+copper, iron, and other metals as the natural and therefore best
+conductors of electricity, and glass, etc., as the best insulators or
+non-conductors.
+
+Up to this time an excited electric, such as a glass cylinder or
+wheel, had furnished the only source whence electricity had been drawn
+for purposes of experiment. But now another great step forward was
+taken by the momentous discovery that electricity, as furnished by
+the excited but quickly exhausted electric, could be bottled up, as
+it were, and so accumulated and preserved in large quantities, to be
+drawn upon when needed for experiment. It is not known who made this
+important discovery; but by common consent the storage apparatus,
+which was to play so conspicuous a part in after-investigations, was
+named the _Leyden Jar_ or _Phial_, from the city of Leyden in Holland.
+It consisted of a simple glass jar lined inside and out with tinfoil
+to within an inch or two of the top, the tinfoil of the inside being
+connected by a conductor passing up through the stopper of the jar
+to a metallic knob on top. This jar could be charged or filled with
+electricity from a common electric, and it had the power of retaining
+the charge till the knob on top was touched by the knuckle, or some
+unelectrified substance, when a spark ensued, and the jar was said to
+be discharged. By conductors attached to the knob, guns were fired off
+at a distance by means of the spark, and it is said that Dr. Benjamin
+Franklin ignited a glass of brandy at the house of a friend by means
+of a wire attached to a Leyden jar and stretched the full width of the
+Schuylkill River at Philadelphia.
+
+[Illustration: LEYDEN JAR.]
+
+At this stage in the history of eighteenth century electricity there
+enters a character whose experiments in electricity, and whose
+writings upon the subject, not only brought him great renown at home
+and abroad, but perhaps did more to systematize the science and turn
+it to practical account than those of any contemporary. This was the
+celebrated Dr. Benjamin Franklin, of Philadelphia, Pa. He showed to the
+world that electricity was not created by friction upon an electric,
+but that it was merely gathered there, when friction was applied, from
+surrounding nature; and in proof of his theory he invaded the clouds
+with a kite during a thunder-storm, and brought down electricity
+therefrom by means of the kite-string as a conductor. The key he hung
+on the string became charged with the electric fluid, and on being
+touched by an unelectrified body, emitted sparks and produced all the
+effects commonly witnessed in the discharge of the Leyden jar.
+
+Franklin further established the difference between positive and
+negative electricity, and showed that the spark phenomenon on the
+discharge of the Leyden jar was due to the fact that the inside tinfoil
+was positively electrified and the outside tinfoil negatively. When
+the inside tinfoil was suddenly drawn upon by a conductor, the spark
+was simply the result of an effort upon the part of the two kinds
+of electricity to maintain an equilibrium. By similar reasoning he
+accounted for the phenomenon of lightning in the clouds, and by easy
+steps invented the lightning-rod, as a means of breaking the force
+of the descending bolt, and carrying the dangerous fluid safely to
+the ground. Here we have not only a practical result growing out
+of electrical experiments, but we witness the dawn of an era when
+electricity was to be turned to profitable commercial account. The
+lightning-rod man has been abroad in the world ever since the days of
+Franklin.
+
+Thus far, then, electrical science, if science it could yet be called,
+had gotten on at the dawn of the nineteenth century. No electricity
+was really known but that produced by friction upon glass, or some
+other convenient electric. Hence it was called _frictional_ electricity
+by some, and _static_ electricity by others, because it was regarded
+as electricity in a state of rest. Though a thing fitted for curious
+experiment, and a constant invitation to scientific research, it had
+no use whatever in the arts. An excited electric could furnish but a
+trivial and temporary supply of electricity. It exhausted itself in the
+exhibition of a single spark.
+
+
+II. THE NEW NINETEENTH CENTURY ELECTRICITY.
+
+By a happy accident in 1790, Galvani, of Bologna, Italy, while
+experimenting upon a frog, discovered that he could produce alternate
+motion between its nerves and muscles through the agency of a fluid
+generated by certain dissimilar metals when brought close together.
+Though this mysterious fluid came to be known as the galvanic fluid,
+and though galvanism was made to perpetuate his name, it was not until
+1800 that Volta, another Italian, showed to the scientific world that
+really a new electricity had been found.
+
+[Illustration: FRANKLIN INSTITUTE, PHILADELPHIA.
+
+(From photo furnished by Institute.)]
+
+Volta constructed what became known as the galvanic pile, but more
+largely since as the voltaic pile, which he found would generate
+electricity strongly and continuously. He used in its construction
+the dissimilar metals silver and zinc, cut into disks, and piled
+alternately one upon the other, but separated by pieces of cloth
+moistened with salt water. This simple generator of electricity was the
+forerunner of the more powerful batteries of the present day, and which
+are still popularly known as voltaic cells or batteries.
+
+But the importance of Volta’s discovery did not lay more in the
+construction of his electrical generator than in the great scientific
+fact that chemistry now became linked indissolubly with electricity
+and electrical effects. The two novel and charming sciences, hitherto
+separate, were henceforth to coöperate in those majestic revelations
+and magnificent possibilities which so signally distinguish the
+nineteenth century. By means of greatly improved voltaic cells or
+batteries, that is, by jars containing acid in which were suspended
+dissimilar metals, electricity could be produced readily and in
+somewhat continuous current. By increasing the number of these cells
+or jars or batteries, and connecting them with conductors, the current
+could be made stronger and more effective. In contradistinction to the
+old frictional or static electricity, the new became known as chemical
+or current electricity.
+
+As was to have been expected, Volta’s invention and discovery excited
+the whole domain of electrical science to new investigation, and
+brought in their train a host of wonderful results, growing more and
+more practical each year, and pointing the way more and more clearly to
+the commercial value of electricity as a familiar, inexhaustible, and
+irresistible power. Thus, in 1801, Nicholson showed that an electric
+current from a voltaic pile would, when passed through salt water,
+decompose the water and resolve it into its two original gases, oxygen
+and hydrogen. In 1807, Sir Humphrey Davy, carrying electricity further
+into the domain of chemistry, showed, by means of the electric current,
+that various metallic substances embraced in the earth’s crust, and
+before his time supposed to be elementary, were really dissoluble and
+easily resolved into their component parts, whether solids, or gases,
+or both. Two years later, in 1809, he made the equally momentous
+discovery of something which was to prove a veritable _sit lux_, “Let
+there be light,” for the nineteenth century, and illuminate it beyond
+all others. Though it had been known almost from the date of the
+first voltaic pile that, when the ends of its two conducting wires
+were brought close together, a spark was seen to leap in a curved or
+arc line from one wire to the other, which phenomenon was known as
+the voltaic arc, it remained for Davy to exhibit this arc in all the
+beauty of a brilliant light by using two charcoal (carbon) sticks or
+electrodes, instead of the wires, at the point of close approach. Here
+was the first principle of the after-evolved arc light to be found
+by the end of the century in every large city, and to prove such a
+source of comfort and safety for their millions of inhabitants. This
+principle was simply that a stream of electricity pouring along a
+conducting wire will, when interrupted by a substance such as carbon
+(charcoal), which is a slow conductor, throw off a bright light at the
+point of interruption. The phenomenon has been very aptly likened to a
+running stream of water in whose bed a stone has been placed. The stone
+obstructs the flow of water. The water remonstrates by an angry ripple
+and excited roar. In Davy’s experiment with the pieces of charcoal,
+both became intensely hot while the electricity was making its
+brilliant arc leap from one to the other, and would, of course, soon
+be consumed. He, therefore, in showing the principle of a permanent
+luminant, failed to demonstrate its practical possibilities. These last
+were not to be attained till the nineteenth century was well along, and
+only after very numerous and very baffling attempts.
+
+Between 1810 and 1830, many important laws governing electrical
+phenomena were discovered, which tended greatly to render the
+science more exact, and to give it commercial direction. Oersted, of
+Denmark, discovered a means of measuring the strength and direction
+of an electric current. Ampère, of France, discovered the identity
+of electricity and what had before been called galvanism. Ritchie,
+of England, made the first machine by which a continuous motion was
+produced by means of the attractions and repulsions between fixed
+magnets and electro-magnets. This machine was an early suggestion of
+the dynamo and motor of the coming years of the century. It meant that
+electricity was a source of power, as well as of other phenomenal
+things.
+
+In speaking of the electro-magnet in connection with Ritchie’s machine,
+it is proper to say that the electro-magnet was probably discovered
+between 1825 and 1830, but precisely by whom is not known. It differs
+from the natural magnet, or the permanent steel horseshoe magnet, and
+consists simply of a round piece of soft iron, called a core, around
+which are wrapped several coils of fine wire. When an electric current
+is made to pass through this wrapping of wire, called the helix, the
+iron core becomes magnetized, and has all the power of a permanent
+magnet. But as soon as the electric current ceases, the magnetic
+power of the core is lost. Hence it is called an electro-magnet, or a
+temporary magnet, to distinguish it from a permanent magnet.
+
+[Illustration: INDUCTION COIL.]
+
+While the discovery of the electro-magnet was very important in the
+respect that it afforded great magnetic power by the use of a limited
+or economic galvanic force, or, in other words, by the use of smaller
+and fewer Voltaic batteries, it was not until Faraday began his
+splendid series of electrical discoveries, in 1831, that a new and
+exhaustless wellspring of electricity was found to lay at the door
+of science. Faraday’s prime discovery was that of the induction of
+electric currents, or, in other words, of manufacturing electricity
+directly from magnetism. He began his experiments with what became
+known as an induction coil, which, though then crude in his hands, is
+the same in principle to-day. It consists of an iron core wrapped
+with two coils of insulated wire. One coil is of very lengthy, thin
+wire, and is called the secondary coil. The other is of short, thick
+wire, and is called the primary. When a magnetic current is passed
+through the primary coil, with frequent makes and breaks, it induces
+an alternating current of very high tension in the secondary coil,
+thus powerfully increasing its effects. In Faraday’s further study of
+electric induction, he showed that when a conductor carrying a current
+was brought near to a second conductor it induced or set up a current
+in this second. So magnets were found to have a similar effect upon one
+another.
+

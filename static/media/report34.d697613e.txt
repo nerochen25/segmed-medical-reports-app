@@ -1,0 +1,364 @@
+The Project Gutenberg EBook of Smithsonian Institution - United States
+National Museum - Bulletin 240, by Anonymous
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Smithsonian Institution - United States National Museum - Bulletin 240
+       Contributions From the Museum of History and Technology
+
+Author: Anonymous
+
+Release Date: September 17, 2012 [EBook #40782]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+
+
+While Frank worked on his engine, he realized that certain parts of the
+old running gear would need to be altered or replaced. In view of the
+heavier and more powerful engine, he felt the old wheels, probably
+having compressed band hubs, were inadequate. He procured a set of new,
+heavier wheels[20] with Warner-type, cast-iron reinforced hubs. The
+angle iron frame, apparently sturdy enough to carry the added weight,
+was retained, but it was decided to install a heavier rear axle.[21] The
+front axle assembly was at first allowed to remain unchanged, as was the
+steering apparatus. A short time later when the engine and friction
+transmission were bolted in place on the running gear, Frank saw that
+the rigidity of the framework had an undesirable effect. When the
+vehicle passed over any unevenness in the shop floor, the framework was
+distorted and caused the jackshaft bearings to bind tightly enough on
+the shaft to prevent its being turned by hand. In order to provide the
+3-point suspension necessary to eliminate this distortion, Frank
+attached the forward parts of the framework to an extra wooden spring
+bar, installing between this bar and the front axle a vertical fifth
+wheel of the type ordinarily used in a horizontal position in any light
+carriage.
+
+Frank next calculated that with the faster running engine the speed of
+the vehicle would be about 15 miles an hour, too much for the heavily
+loaded wheels. As he intended to make use of the original transmission,
+he decided to decrease the speed by increasing the size of the friction
+drum. He accomplished this by sliding a heavy fiber tube over the
+original drum, bringing its diameter to approximately 14 inches. The
+original shipper fork carriage was improved by separating the original
+bearings to a greater distance, and eliminating one of the two bearings
+on one end. This permitted a smooth and free operation of the small
+sliding carriage.
+
+In August 1893, possibly as a result of indoor experiments, Frank
+discovered that the chains running from the small 5-tooth[22] jackshaft
+sprockets to the large, bronze, wheel sprockets were tight at some times
+and loose at others. This caused considerable unnecessary noise. The
+difficulty apparently was the result of the sprockets being cast and not
+machined. The patternmaker had said he believed he could make the
+pattern accurately enough so that no machining of the castings would be
+necessary. Nice castings were produced, but "these sprockets were the
+reason why an unusual construction was put on the crankshaft [meaning
+jackshaft]," explained Frank Duryea during an interview at the National
+Museum on November 9, 1956. Elaborating further, in reply to the queries
+of E. A. Battison, of the Museum's division of engineering, Duryea told
+of the problem and the solution when he explained that the sprockets had
+places where the shrinkage was not even. The hot metal, contracting as
+it cooled, did not seem to contract uniformly, creating slightly unequal
+distances between teeth. This resulted in the chain hanging quite loose
+in some places and in others the tightness prevented adjustment. He
+contacted Will Russell, foreman of the Russell shop, where the
+automobile was made, and Russell showed him a device, built by George
+Warwick, who had made the Warwick bicycle. It was an internal-cut gear,
+according to Duryea's description, with sprocket teeth on its periphery.
+With sprockets outside and normal teeth inside, the wheels were about 6
+inches in diameter, externally.
+
+These little internal-gear sprockets were hung on double-shrouded
+pinions secured to each end of the jackshaft. A solid disc or housing
+fitted against both ends of the pinion to prevent the internal gear
+from working off sideways. Duryea explained the function of these
+unique little parts: "as soon as tension came on that ring gear that we
+talked about, it not only tightened the chain hanging on this sprocket
+on the upper side, but it tightened it on both sides. [The sprocket]
+rocks right out: both sides of the chain are tight."
+
+This feature is one rarely encountered elsewhere, and Duryea, later in
+the interview said, "To tell you the truth, I think I was just a little
+bit ashamed about the thing, because I had to pull it off. I didn't like
+the looks of it after I got it on."
+
+Two small tanks, each with a capacity of approximately two gallons, were
+mounted over the engine in the positions they still occupy, the one on
+the left for gasoline,[23] the other for water. The small fitting under
+the gasoline tank has a thumbscrew shutoff and a glass-sight feed tube,
+leading to the carburetor. The water tank, an inch longer than the
+gasoline tank, communicates with the water jacket of the engine through
+two pieces of half-inch pipe, entering the jacket from above and below.
+The overflow tank, holding just over a gallon, is suspended between the
+rear axle and the flywheel.
+
+A number of mufflers were constructed for the engine.[24] The first
+experimental one was built of wood, being a box 6 × 6 × 15 inches with a
+hole for the exhaust pipe in one end and a series of small holes in the
+opposite end. Inside, Frank arranged metal plates which were somewhat
+shorter than the depth of the box. Every other one was attached to the
+bottom of the box; the intermediate plates were fastened to the top.
+This contrivance muffled the sound considerably, but, as might be
+expected, soon began to smoke. There can be little doubt that it was
+replaced before any of the outdoor trials began. Another type consisted
+of a cylindrical metal shell, perhaps six inches in diameter and ten or
+twelve inches long. Here a series of perforated baffle plates were
+inserted, with alternating solid plates having parts of their external
+edges cut away. Two bolts running the length of the muffler held on the
+cast-iron heads in a manner quite similar to the Model-T Ford mufflers
+of later years. Though partially satisfactory, Frank, in a November 6,
+1957, interview, complained that it made a metallic sound. Perhaps this
+was the muffler he used from September to November 1893.
+
+[Illustration: FIGURE 21.--ILLUSTRATION OF THE NO. 2 SAMSON BATTERY used
+by the Duryeas in their vehicle. (Smithsonian photo 46858.)]
+
+On August 28 Frank wrote to Charles saying the carriage was almost ready
+for the road and that he hoped to take it out for a test on the coming
+Saturday, "off somewhere so no one will see us...."[25] There is no
+evidence showing whether the amount of remaining work permitted the
+proposed trial on September 2. The body was finally replaced on the
+running gear, at which time it was found necessary to raise the seat
+cushion several inches by the insertion of a framework made of old
+crating boards. This allowed sufficient room between the seat and the
+frame to suspend the batteries and coil. Six no. 2 Samson batteries were
+contained in this space, three on each side, in rows parallel to the
+side of the vehicle. The Samson battery consisted of a glass jar
+containing a solution of ammonia salts and water, with a carbon rod in
+the center, housing a zinc rod. It is difficult to understand why they
+used Samson batteries rather than dry cells; perhaps they were concerned
+with the mounting cost of the machine and were making use of parts
+already on hand.[26] A coil, possibly from an old gaslight igniter
+system, accompanied the Samson batteries under the seat. This original
+coil is now missing.
+
+The iron dash frame, previously recovered and provided with a rain apron
+to be pulled up over the knees in the event a heavy rain blew in under
+the carriage top, was bolted back in place. Frank and Mr. Markham gave
+the carriage a quick painting; later Frank admitted, "the machine never
+had a good job of painting."[27] Before the motor wagon actually got
+onto the road, a reporter on the _Springfield Evening Union_ got some
+statistics on it and an item appeared on September 16, giving the first
+public notice of the machine.
+
+
+[Illustration: NO USE FOR HORSES.
+
+Springfield Mechanics Devise a New Mode of Travel.
+
+Ingenious Wagon Now Being Made in This City for Which the Makers Claim
+Great Things.
+
+A new motor carriage, which, if the preliminary tests prove successful
+as is expected, will revolutionize the mode of travel on highways, and
+do away with the horse as a means of transportation, is being made in
+this city. It is quite probable that within a short time one may be able
+to see an ordinary carriage in almost every respect, running along the
+streets or climbing country hills without visible means of propulsion.
+The carriage is being built by J. F. Duryea, the designer and B. F.
+Markham, who have been at work on it for over a year. The vehicle was
+designed by C. E. Duryea, a bicycle manufacturer of Peoria, Ill., and he
+communicated his scheme to his brother, who is a practical machanic in
+this city.
+
+The propelling power is furnished by a two-horse power gasoline motor
+situated near the rear axle and which, when started, runs continuously
+to the end of the trip, notwithstanding the number of times the carriage
+may be stopped. The speed of the motor is uniform, being about 500
+revolutions a minute, and is so arranged that it gives a multiplied
+power for climbing hills and the lower the rate of speed the greater
+power is furnished by the motor. The slowest that the carriage can be
+driven is three miles an hour and the speed can be increased to fourteen
+or fifteen miles an hour. The power is transferred from the driving
+wheel of the motor, which runs horizontally with the main shaft by an
+endless friction belt running on a drum wheel. The belt is controlled by
+a lever within easy reach of the driver and is shifted along the drum
+wheel to increase or decrease the speed. The driving wheel is about
+twenty inches in diameter, having in its center a depression to which
+the belt is shifted to stop the carriage.
+
+The carriage can be reversed by shifting the belt from the end of the
+drum, which gives the forward motion to the opposite side beyond the
+depression in the driving wheel. The power which has been transferred to
+the driving shaft from the motor is in turn transferred to the two rear
+wheels of the carriage by a combination gear and sprockets. An endless
+chain connects the sprockets on the carriage wheels to the sprocket
+wheels on the driving shaft. All of the motive power is located under
+the body of an ordinary phaeton, the hight of which is not increased by
+the machinery. The motor is started by a crank which is easily applied
+to a shaft in the rear of the carriage and the gasoline is ignited in
+the cylinder by electricity. An automatic device stops the flow of
+gasoline into the cylinder when the motor ceases running. The gasoline
+is carried in tanks, which hold about two gallons, and which will run
+the carriage for about eight hours. The wagon is guided by a bicycle
+bar, and the speed is also controlled by this bar.
+
+The method employed in this is as follows: To start the carriage press
+the lever down; to reverse it throw the lever up and to guide the wagon
+turn the lever either to the right or left. The front axle instead of
+turning horizontally plays up and down, in order that the machinery may
+be on a level with the rear wheels, while the front wheels are set on
+the axle by a pivotal joint and are connected with the guiding lever by
+bars with ball bearings. The carriage complete weighs about 220 pounds,
+and the essential features are already covered by patents while others
+are pending.
+
+It is estimated that the carriages can be sold for about $400, and a
+stock company will probably be formed to manufacture them.
+
+FIGURE 22.--FROM THE _Springfield Evening Union_, September 16, 1893.]
+
+Toward the latter part of the following week, Frank was ready to give
+the product of his labors its first road trial. On September 21 the
+completed carriage was rolled onto the elevator at Russell's shop.
+Seeing that the running gear was too long for the elevator, they raised
+the front of the machine, resting the entire weight of 750 pounds on the
+rear wheels. Once outside the building, they pushed it into an area
+between the Russell and Stacy buildings. After dark, "so no one will
+see," Will Bemis, Mr. Markham's son-in-law, brought a horse and they
+pulled the phaeton out to his barn on Spruce Street.[28] There, on
+Spruce and Florence Streets the first tests were made. The next day
+Frank wrote his brother saying, "Have tried it (the carriage) finally
+and thoroughly and quit trying until some changes are made. Belt
+transmission very bad.[29] Engine all right." He did admit the engine
+seemed to be well loaded most of the time. He also had an idea in mind
+to replace the poor transmission, explaining the plan to Charles: "The
+three gears[30] on secondary shaft have friction clutches, the two bevel
+gears on same shaft are controlled by a clutch which frees one and
+clutches the other at will. This provides a reverse."
+
+
+[Illustration: PRIMARY SPARK COILS.
+
+ FOR ELECTRIC GAS LIGHTING.
+
+ Cat. No. 48304.  8 inch                      Price, each, $3 20
+    "     50304. 10   "                            "        3 70
+    "     52304. 12   "                            "        4 30
+    "     54304. Detached Gas Lighting Relays      "        2 75
+
+ For Spark Coils with Relay Attachment, add $2.50 to price for Spark Coil.
+
+FIGURE 23.--TYPE OF SPARK COIL the Duryeas are believed to have used in
+their electrical circuit, as shown in a catalog illustration.
+(Smithsonian photo 46858-A.)]
+
+The _Springfield Evening Union_ of September 22 carried a notice of the
+trial. This report, too, commented on the faulty transmission and the
+plan already in Frank's mind for the new transmission.
+
+     ... The friction belt allowed of the speed being steadily increased
+     or diminished at the will of the driver and caused no sudden
+     forward motion of the carriage, but while this arrangement has many
+     advantages it uses up the power so that the two-horse power
+     furnished by the motor [somewhat less than the rating Frank gave
+     the engine] was reduced to less than three-fourths horse power on
+     reaching the main shaft. This would not be sufficient to propel the
+     carriage up steep grades but would be sufficient to run the
+     carriage on level road.
+
+     The inventors will do away with this belt in favor of a clamp gear
+     and will make the drum wheel smaller. By this means there will be
+     very little power lost in transmission to the shaft and by a
+     patented arrangement the carriage may be started gradually but the
+     speed must be increased by shifting the clamp gear to a succession
+     of gears on the driving wheel of the motor. The speed of the
+     carriage will be fixed permanently according to the size of the
+     gear that the smaller one is shifted to. The test of the machine
+     with the gear arrangement will be made soon.
+
+In October Frank decided on another vacation and went to Chicago to see
+the Columbian Exposition. Charles had come up from Peoria to see the
+fair and the two talked over the progress on their motor wagon, and
+discussed the transmission problem. They gave particular attention to
+everything relating to engines and motor carriages, and Frank recalls
+seeing a Daimler quadricycle that impressed him with its performance.[31]
+Just what decisions the two might have made there are unknown, yet it is
+likely that they agreed to give the old transmission one more chance to
+prove itself.
+
+Returning to Springfield, probably in the first week of November, Frank
+gave the friction drive its final test, this time substituting a leather
+belt for the rubber one first used.[32] Mr. Markham, though intensely
+interested in the experiments, apparently was dubious concerning the
+safety of the carriage. It had no brakes, and fearing failure of the
+transmission on a downgrade, he was reluctant to ride in the machine. On
+November 9 he asked Will Bemis to try it for him. The following day the
+_Springfield Morning Union_ gave a description of the run:
+
+     Residents in the vicinity of Florence street flocked to the windows
+     yesterday afternoon astonished to see gliding by in the roadway a
+     common top carriage with no shafts and no horse attached. The
+     vehicle is operated by gasoline and is the invention of Erwin
+     Markham and J. F. Duryea. It has been previously described in The
+     Union and the trial yesterday was simply to ascertain the practical
+     value of a leather friction surface which has been substituted for
+     the rubber one previously used. The vehicle, which was operated by
+     Mr. Bemis, started from the corner of Hancock avenue and Spruce
+     street and went up the avenue, up Hancock street and started down
+     Florence street, working finely, but when about half-way down the
+     latter street it stopped short, refusing to move. Investigation
+     showed that the bearing had been worn smooth by the friction and a
+     little water sprinkled upon it put it in running condition again.
+     The rest of the trip was made down Florence and down Spruce street,
+     to the residence of the inventors. They hope to have the vehicle in
+     good working condition soon.
+
+[Illustration: FIGURE 24.--RUNNING GEAR OF DURYEA VEHICLE, showing the
+second engine and other parts as used in January 1894.]
+
+The same evening, the late edition ran a brief paragraph stating that
+"the test was made to determine the value of a leather friction surface
+for propelling the wagon, that had been substituted in place of the
+rubber surface, used in the former test." Bemis, according to Frank
+Duryea's recollection, was not impressed with the performance of the
+machine, saying "the thing is absolutely useless," and for a time it
+appeared that further support from Markham would not be forthcoming.
+Frank, believing eventual success to be near, drew up plans showing his
+geared transmission, and with these managed to gain Markham's partial
+support. Money for material and use of the shop was to continue, but
+Frank was to complete the work on his own time.
+
+Now receiving no salary, Frank worked hurriedly on the transmission
+throughout late November, December, and the first two weeks of January.
+First discarding the old friction drum and shaft, and the shipper-fork
+carriage, he bolted a rawhide bevel gear to the lower surface of the
+flywheel. This turns two bevel gears, in opposite directions, on a
+countershaft directly underneath, approximately in the position of the
+old jackshaft. The right bevel gear is secured to the main countershaft
+on which two clutches are mounted, one on each side of the crankshaft.
+On a sleeve turning freely around the countershaft is mounted the
+reverse bevel gear and clutch. Three free-running clutch drums, the
+right one carrying the high-speed gear, the two on the left carrying the
+combination low speed and reverse gear between them, complete the
+countershaft assembly. The clutch assemblies are of Frank Duryea's
+design, having internal arms, expanding outward to press leather-faced
+shoes against the inner surface of the drum, thus securing the drum and
+its gear to the shaft. Behind this machinery is the jackshaft with its
+small differential on the right, two laminated rawhide gears[33] meshing
+with the iron gears of the countershaft, and the internal-gear sprockets
+hanging on the small pinions at either end. A sliding cam bar, mounted
+nearly in the position of the former shipper-fork carriage, is operated
+by the vertical movement of the tiller handle to engage any one of the
+three clutches. With the tiller depressed, the vehicle is in reverse.
+Elevating it slightly puts it into low gear, and raising it still higher
+runs the machine at its highest speed.
+
+[Illustration: FIGURE 25.--HALF OF JACKSHAFT, showing rawhide gears,
+double shrouded pinion and half of the Columbia differential.]
+
+[Illustration: FIGURE 26.--HALF OF JACKSHAFT showing double-shrouded
+pinion and half of the Columbia differential.
+
+[Illustration: FIGURE 27.--CAM BAR IN FOREGROUND, operated by tiller,
+actuates the various clutches of the transmission. The overflow gasoline
+tank with the hand pump can be seen in the rear.]
+
+

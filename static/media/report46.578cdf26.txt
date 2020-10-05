@@ -1,0 +1,368 @@
+The Project Gutenberg EBook of Induction Coils, How to Make, Use, and
+Repair Them., by H. S. Norrie
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Induction Coils, How to Make, Use, and Repair Them.
+       Including Ruhmkorff, Tesla, and medical coils, Roentgen
+       Radiography, etc. etc.
+
+Author: H. S. Norrie
+
+Release Date: February 22, 2017 [EBook #54221]
+
+Language: English
+
+Character set encoding: UTF-8
+
+
+
+As the primary coil and core may be considered as an electro magnet,
+it may not be out of place to notice the rule governing such.
+Magnetization of an iron core is mainly dependent upon the ampere turns
+of the coil surrounding it—that is, one ampere carried around the core
+for one hundred turns (100 ampere-turns) would equal in effect ten
+amperes flowing through ten turns. Practically speaking, there would
+be certain variations to the rule, for one difficulty would arise in
+that the smaller wire used in conveying the smaller current would fit
+more compactly and allow more turns to be nearer the core, the active
+effect of the turns always decreasing with their distance from the
+core. And although a large current and few turns would not have so much
+self-induction, there would be trouble at the contact breaker, owing
+to the large current it would have to control.
+
+The most suitable sizes of wire for the primary coil are: No. 16 B.
+& S. for coils up to 1 inch spark; No. 14 B. & S. up to 4 inches of
+spark, and No. 12 B. & S. for a 6-inch spark coil. The coil should be,
+say, one-twelfth of the core length shorter than the core.
+
+_I_ is the insulating tube between the primary coil and the secondary
+coil _S_. Here great precaution is necessary to prevent any liability
+of short circuiting or breaking through of sparks from the secondary
+coil. This danger cannot be underestimated, and the tube should be
+either of glass or hard rubber, free from flaws, varying in thickness
+with the dimensions of the coil. It should extend at least one-tenth
+of the total length of the primary coil beyond it at each end. The end
+of this tube can be turned down so as to allow of the hard rubber reel
+ends being slipped on and held in position by outside hard rubber
+rings (Fig. 2).
+
+ [Illustration: FIG. 2.]
+
+The secondary coil consists of many turns of fine insulated copper wire
+separated from the primary coil by the insulating tube and a liberal
+amount of insulating compound at each end. In coils giving under 1 inch
+of spark this coil may be wound in two or more sections.
+
+ [Illustration: FIG. 3.]
+
+The usual manner of constructing these sections is to divide up the
+space on the insulating tube by means of hard rubber rings placed at
+equal distances apart, in number according to the number of sections
+desired (Fig. 3). The space between each set of rings, or between
+the coil end and a ring, is wound with the wire selected, the filled
+sections constituting a number of complete coils, which are finally
+connected in series. The sectional method of winding prevents the
+liability of the spark jumping through a short circuit, but heightens
+its tendency to pass into the primary coil at the ends, where it must
+be therefore specially insulated from it.
+
+ [Illustration: FIG. 4.]
+
+In winding these sections there is a method now generally adopted which
+has many good points, although at first it may seem complicated. The
+old way of filling two sections was to wind both in the same direction
+as full as desired, then join the outside end of the left-hand coil
+to the inside end of the right-hand coil. This necessitated bringing
+the outside end down between two disks, or in a vertical hole in the
+sectional divider, and thereby rendered it liable to spark through into
+its own coil. This is shown in Fig. 4, _A_ and _C_ inside ends, _B_ and
+_D_ outside ends, the disk being between _B_ and _C_.
+
+ [Illustration: FIG. 5.]
+
+Reference to Fig. 3 shows the new method, and Fig. 5 shows an enlarged
+diagram of sections 2 and 3 of Fig. 3.
+
+Sections 1 and 3, Fig. 3, are filled with as many turns as desired; the
+spool is then turned end for end, and sections 2 and 4 are wound, being
+thus in the opposite direction of winding to sections 1 and 3.
+
+The inside ends of 1 and 2 and 3 and 4 are soldered together, and the
+outside ends of 2 and 3 are also soldered together.
+
+The outside ends of 1 and 4 serve as terminals for the coil.
+
+This method of connection leaves all the turns so joined that the
+current circulates in the same direction through them all, as will be
+seen by an examination of the enlarged diagram, Fig. 5.
+
+Sprague, in his "Electricity: Its Theory, Sources, and Application,"
+recommends that the turns of wire in the secondary coil shall gradually
+increase in number until the middle of the spool is reached, and then
+decrease to the spool end, in order that the greatest number of turns
+be in the strongest part of the magnetic field (see Fig. 6). _D D D_
+are section dividers, _S_ secondary windings, _P_ primary coil. The
+selection of the size of wire to be used depends on the requirements as
+to the spark. If a short thick spark be desired, use a thick wire, say
+No. 34 B. & S.; if a long thin one, use No. 36 to No. 40 B. & S.
+
+ [Illustration: FIG. 6.]
+
+Although it is impossible to lay down rules for determining the exact
+amount of wire to be used to obtain a certain sized spark, yet a fair
+average is to allow 1¼ pounds No. 36 B. & S. per inch spark for small
+coils and slightly less for large ones.
+
+The most satisfactory and perhaps the easiest way for large coils is to
+wind the secondary in separate coils, made in a manner similar to that
+employed in winding coils for the Thompson reflecting galvanometer.
+This method, first described by Mr. F. C. Alsop in his treatise on
+"Induction Coils," is somewhat as follows:
+
+A special piece of apparatus (Figs. 7 and 8) is necessary, but presents
+no great difficulty in manufacture. A metal disk, _D_, one-sixth of
+an inch thick and 7 inches in diameter, is mounted on the shaft _S_.
+A second disk is provided with a collar and set screw, _A_, in order
+that it may be adjusted on the shaft at any desired distance from the
+stationary one. When the diameter of the coil to be wound has been
+decided upon, a wooden collar, _W_, with a bevelled surface is slipped
+on the shaft, it corresponding in diameter with the desired diameter of
+the hole through the centre of the secondary coil. As these coils are
+going to be made as flat rings and slipped on over the insulating tube,
+a remark here becomes necessary on this diameter. Reference to Fig. 9
+will show that it is intended that the coils near the reel ends shall
+fit very loosely on the tube _T_ (Fig. 1)—in fact, that there shall be
+a clearance of possibly one-half inch in the extreme end, diminishing
+gradually to a fifteenth of an inch in the centre coils. Therefore it
+becomes necessary to provide a number of wooden rings equal to the
+desired diameter of the central hole in the coil. The thickness of
+the wood determining the width of the individual coil depends on the
+selection of the operator; but the rule may be laid down that the
+narrower the coils the better the insulation of the complete coil will
+be on completion.
+
+ [Illustration: FIG. 7.]
+
+ [Illustration: FIG. 8.]
+
+ [Illustration: FIG. 9.]
+
+One-sixteenth of an inch is a very fair average, and has been generally
+adopted by the writer.
+
+A quantity of paper rings are now cut out of stout writing paper which
+has been soaked in melted paraffin. If a block or pad of letter paper
+be soaked in paraffin and allowed to become cold under pressure, the
+ring may be scratched on the surface of it and the block cut through on
+a jig saw. The central apertures of course will vary in size with their
+position on the tube _T_ (Fig. 9).
+
+The coil winder is now either mounted in a lathe or fixed in a hand
+magnet winder in such manner that it can be steadily and rapidly
+rotated. The wire to be wound comes on spools, which can be so
+threaded on a piece of metal rod that they turn readily. A metal dish
+containing melted paraffin is provided with a round rod, preferably of
+glass, fixed under the paraffin surface, so that it can rotate freely
+when the wire passes under it through the paraffin. Two paper rings are
+slipped on the winder that they may form, as it were, reel ends for the
+coil, and if the metal disks have been warmed it is an easy matter to
+lay them flat.
+
+The end of the wire is then passed through the paraffin under the
+glass rod and through the hole _H_ in the metal disk for a distance
+of, say, 6 inches, and held to the disk outside with a dab of paraffin
+or beeswax. Then the winder is rotated and the space between the paper
+disks is filled with wire. The paraffin, being hot, will adhere to the
+wire, and cooling as the wire lays down on the winder, hold the turns
+together and at the same time insulate them from each other. It will
+not be possible to lay the wire in even layers, as would be necessary
+in winding a wider coil, but the spaces can be filled up, using
+ordinary care that no radical irregularity occurs—that is, that only
+adjacent layers are likely to commingle.
+
+When the space is filled up to the level of the paper disks and the
+paraffin is hard, loosen the set screw, and removing the outside disk,
+the coil can be slipped off, or a slight warming will loosen it. Any
+number of these coils can be made, and there are the advantages in
+this mode of construction that a bad coil will not spoil the whole
+secondary, and that the wire can be obtained in comparatively small
+quantities.
+
+As each coil will not be of very high resistance, the continuity of
+the wire can be readily tested by means of a few cells of battery,
+connecting one end of the coil to one pole of the battery, and the
+other pole of the battery and coil end touched to the tongue. If a
+burning sensation is experienced, the connection is not broken. Where
+possible the coils should be measured as to their resistance on a
+Wheatstone bridge.
+
+When the requisite number of coils has been prepared, they are
+assembled in the following manner (Fig. 9): The coils, having their
+aperture diameter graded, are placed in order, and starting with the
+one having the largest hole, it is slipped over the primary protection
+tube _T_, one end being brought out through a hole in the reel end
+drilled vertically or between the reel end and the coil. A couple of
+paper rings are then slipped on the tube, and another coil placed over
+them, having its ends connected as in Fig. 3. This process is continued
+until all the coils are in place. The annular space between the coils
+and the tube _T_ (Fig. 9) is filled in with melted paraffin and the
+coils gently pressed together, so as to form a compact mass, paraffin
+being poured over the outside of the whole combination. Before winding
+any wire used in this work it must be perfectly dry, which end can be
+accomplished by subjecting the whole spool to a short period of baking
+in a moderately warm oven.
+
+The accompanying table gives the length of No. 36 silk-covered wire
+that will fill a linear space equal to one thickness of the wire in
+different-sized rings. This size wire wound tight will give 125 turns
+per linear inch. Therefore on a ring having a middle aperture of 1½
+inches and an outside diameter of 4 inches, there will be 156 turns, or
+a total length of 1347 inches. This is obtained as follows: 1½ inches
+× 3.1416 = 4.7124 (or 4.712); 4 inches × 3.1416 = 12.5664 (or 12.56);
+(4.712 + 12.56)∕2 = mean circumference—viz., 8.635 inches.
+
+This mean × number of turns in thickness of ring between the two
+circumferences—viz., 156 = 1347 inches.
+
+
+TABLE OF SECONDARY WINDINGS.
+
+  ————————————————————————-+——————————————————+——————————————————+
+                           |       1½″        |   2″             |
+  NO. 36 SILK-COVERED WIRE.|Aperture Diameter,|Aperture Diameter,|
+  125 TURNS PER LINEAR     |    4.712″        |   6.283″         |
+  INCH. 13,306 FEET PER    |Aperture          |Aperture          |
+  POUND.                   |  Circumference.  |  Circumference.  |
+  ————————————————————————-+——————+————-+————-+——————+————-+————-+
+  Outside diameter         |  4″  |  5″ |  6″ |  4″  |  5″ |  6″ |
+  Outside circumference    |12.56 |15.70|18.84|12.56 |15.70|18.84|
+  Mean circumference       | 8.635|10.20|11.78| 9.421|10.99|12.56|
+  Turns between            |      |     |     |      |     |     |
+    circumferences         | 156  | 219 |282  |  125 | 188 | 250 |
+  Distance between aperture|      |     |     |      |     |     |
+    and outside, in inches | 1.25 | 1.75| 2.25|   1  | 1.50| 2   |
+  Length of wire, in inches| 1347 | 2234| 2650| 1178 | 2066| 3140|
+  ————————————————————————-+——————+————-+————-+——————+————-+————-+
+  ————————————————————————-+——————————————————+
+                           |    2½″           |
+  NO. 36 SILK-COVERED WIRE.|Aperture Diameter,|
+  125 TURNS PER LINEAR     |    7.854″        |
+  INCH. 13,306 FEET PER    |Aperture          |
+  POUND.                   |  Circumference.  |
+  ————————————————————————-+——————+————-+————-+
+  Outside diameter         |  5″  |  6″ | 7″  |
+  Outside circumference    |15.70 |18.84|21.99|
+  Mean circumference       |11.78 |13.35|14.92|
+  Turns between            |      |     |     |
+    circumferences         | 156  | 219 | 282 |
+  Distance between aperture|      |     |     |
+    and outside, in inches | 1.25 | 1.75| 2.25|
+  Length of wire, in inches| 1838 | 2924|4207 |
+  ————————————————————————-+——————+————-+————-+
+
+To obtain the length of wire necessary for a ring occupying more than
+the space of one turn on the primary insulating tube, multiply the
+length before obtained by the number of turns in the space it occupies.
+Thus a flat ring one-tenth of an inch thick would equal 1347 inches ×
+12.5.
+
+This rule is necessarily only approximate, owing to the way the wires
+bed on each other from their cylindrical section. In actual practice,
+when the wire is run through the paraffin bath not more than 50 per
+cent of the calculated wire will occupy the space. And the thickness of
+the paper rings must also be added when figuring the total length of
+the coil. In the iron-clad transformers or induction coils of highest
+efficiency used in the alternating current electric light system, the
+rule for determining the windings of the coils is based on the ratio
+of the turns of wire in the primary to the turns in the secondary, the
+electromotive force in the primary, and the lines of force cut by the
+windings.
+
+The secondary ends can be attached to binding posts mounted on the reel
+ends. Unless these reel ends be very high and clear the outside of the
+coil considerably, it is better to mount the binding posts on the top
+of the hard rubber pillars. A neat plan is to mount on the top of the
+coil a hard rubber plate reaching from reel end to reel end, and place
+the binding posts on that.
+
+A discharger consists of two sliding metal rods with insulated handles
+passing through pillars attached to the secondary coil. The inside ends
+of these rods is provided with screw threads for the ready attachment
+of the balls, points, etc., which are to be used. The substance to be
+acted upon is laid on a rubber or glass table midway between the rod
+pillars and slightly below the level of the rods.
+
+By hinging the rod pillars, or using a ball and socket joint, the
+discharger can be inclined so as to be better brought near the
+substance on the table.
+
+The next important part of the coil is the contact breaker.
+
+The armature _R_ is a piece of soft iron carried at the end of a stiff
+spring, in about the middle of which, at _B_, is riveted a small
+platinum disk or stud. The adjusting screw _A_ has its point also
+furnished with a piece of platinum, which is intended to touch the
+platinum on the spring when the latter is in its normal position. The
+core _C_ of the coil serves as an electro-magnet. When the current
+flows from the battery (represented by the figure at _L_) through the
+primary coil and armature spring to the adjusting screw, it causes the
+armature to be drawn to the magnetized core, but thereby draws the
+platinum disk away from the adjusting screw. In so doing it breaks the
+circuit, the magnet loses its power, and the elasticity of the spring
+reasserting itself, carries the armature back, thereby reclosing the
+circuit. This is repeated many times in a second, the result being a
+continual vibration of the spring, and a consequent interruption to the
+current.
+
+The condenser or Leyden jar _J_, connected as in the diagram to the
+base of the vibrating spring at _K_ and to the adjusting screw wire
+_M_, is constructed as follows: On a sheet of insulated paper is laid
+a smaller sheet of tinfoil, one edge of which projects an inch or so
+over one end of the paper. Another sheet of paper covering this carries
+a second sheet of tinfoil, one end of which projects as in the first
+sheet, but at the opposite end of the paper. Tinfoil and paper sheets
+are laid in this manner alternately until a sufficient number is
+attained. The projecting ends are then clamped together and the whole
+pile immersed in melted paraffin, as will be described in a subsequent
+chapter. Wires are affixed to these clamped ends which serve to connect
+the condenser with the contact breaker. The conventional sign for a
+condenser is that used at _J_, showing the two series of plates, the
+insulation or dielectric, as it is called, being understood.
+
+The size of condenser to use with different-sized coils varies
+according to the winding of the primary and the battery used. A primary
+coil of few turns would not necessitate as large a condenser as one of
+a large number of turns. At the same time, a condenser may be made of
+too great a capacity, and thereby weaken the action of the coil.
+
+The base upon which the coil and its parts are mounted may be of dried
+polished wood. But where the coil is designed to give large sparks—over
+2 inches—it is an advantage to use hard rubber one quarter of an inch
+and upward in thickness. Glass, were it not for the difficulty of
+drilling it and its brittleness, would be a desirable material for a
+coil base in a dry atmosphere. Hard red or black fibre coated with
+shellac varnish is also serviceable, and, moreover, is extremely easy
+to work. Slate must never be used; there is too much liability of
+iron veins being found in it, which in such high tension experiments
+as will be described would seriously impair the usefulness of the
+apparatus. The material selected for the base must be one that will
+not absorb moisture. A paraffined surface collects moisture up to a
+certain point in isolated drops, whereas a glass and even a hard rubber
+surface condenses the moisture as a film, which latter is extremely
+undesirable. But unfortunately the fact that a paraffined surface
+does not present a pleasing appearance would probably result in its
+rejection. And lastly, by mounting the coil on hard rubber blocks, or
+extending the reel ends to raise the coil body, a high insulation can
+be obtained at the sacrifice perhaps of appearance or height. From
+the care taken to insulate the secondary coil, it may be considered a
+superfluous precaution to so carefully select a base, but practical
+work with the instrument at some important crisis will demonstrate
+the necessity of extreme care in the smallest details relating to
+insulation. It may be well to note here that hard rubber is acted upon
+by ozone, and is thereby impaired as an insulator.
+

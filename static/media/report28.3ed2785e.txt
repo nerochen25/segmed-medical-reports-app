@@ -1,0 +1,229 @@
+The Project Gutenberg EBook of Handbook of Medical Entomology, by 
+William Albert Riley and Oskar Augustus Johanssen
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Handbook of Medical Entomology
+
+Author: William Albert Riley
+        Oskar Augustus Johanssen
+
+Release Date: November 11, 2010 [EBook #34279]
+
+Language: English
+
+Character set encoding: UTF-8
+
+
+In this connection, mention must be made of the scholarly article by the
+American physician, A. F. A. King who, in 1883, brought together an all
+but conclusive mass of argument in support of his belief that malaria
+was caused by mosquitoes. At about the same time, Finley, of Havana, was
+forcefully presenting his view that the mosquito played the chief rôle
+in the spread of yellow fever.
+
+To enter more fully into the general historical discussion is beyond the
+scope of this book. We shall have occasion to make more explicit
+references in considering various insect-borne diseases. Enough has been
+said here to emphasize that the recognition of insects as factors in the
+spread of disease was long presaged, and that there were not wanting
+keen thinkers who, with a background of present-day conceptions of the
+nature of disease, might have been in the front rank of investigators
+along these lines.
+
+
+THE WAYS IN WHICH ARTHROPODS MAY AFFECT THE HEALTH OF MAN
+
+When we consider the ways in which insects and their allies may affect
+the health of man, we find that we may treat them under three main
+groups:
+
+A. They may be directly poisonous. Such, for example, are the scorpions,
+certain spiders and mites, some of the predaceous bugs, and stinging
+insects. Even such forms as the mosquito deserve some consideration from
+this viewpoint.
+
+B. They may be parasitic, living more or less permanently on or in the
+body and deriving their sustenance from it.
+
+Of the parasitic arthropods we may distinguish, first, the _true
+parasites_, those which have adopted and become confirmed in the
+parasitic habit. Such are the itch mites, the lice, fleas, and the
+majority of the forms to be considered as parasitic.
+
+In addition to these, we may distinguish a group of _accidental_, or
+_facultative parasites_, species which are normally free-living, feeding
+on decaying substances, but which when accidentally introduced into the
+alimentary canal or other cavities of man, may exist there for a greater
+or less period. For example, certain fly larvæ, or maggots, normally
+feeding in putrifying meat, have been known to occur as accidental or
+facultative parasites in the stomach of man.
+
+C. Finally, and most important, arthropods may be transmitters and
+disseminators of disease. In this capacity they may function in one of
+three ways; as _simple carriers_, as _direct inoculators_, or as
+_essential hosts_ of disease germs.
+
+As simple carriers, they may, in a wholly incidental manner, transport
+from the diseased to the healthy, or from filth to food, pathogenic
+germs which cling to their bodies or appendages. Such, for instance, is
+the relation of the house-fly to the dissemination of typhoid.
+
+As direct inoculators, biting or piercing species may take up from a
+diseased man or animal, germs which, clinging to the mouth parts, are
+inoculated directly into the blood of the insect's next victim. It it
+thus that horse-flies may occasionally transmit anthrax. Similarly,
+species of spiders and other forms which are ordinarily perfectly
+harmless, may accidentally convey and inoculate pyogenic bacteria.
+
+It is as essential hosts of disease germs that arthropods play their
+most important rôle. In such cases an essential part of the life cycle
+of the pathogenic organism is undergone in the insect. In other words,
+without the arthropod host the disease-producing organism cannot
+complete its development. As illustrations may be cited the relation of
+the Anopheles mosquito to the malarial parasite, and the relation of the
+cattle tick to Texas fever.
+
+A little consideration will show that this is the most important of the
+group. Typhoid fever is carried by water or by contaminated milk, and in
+various other ways, as well as by the house-fly. Kill all the
+house-flies and typhoid would still exist. On the other hand, malaria is
+carried only by the mosquito, because an essential part of the
+development of the malarial parasite is undergone in this insect.
+Exterminate all of the mosquitoes of certain species and the
+dissemination of human malaria is absolutely prevented.
+
+Once an arthropod becomes an essential host for a given parasite it may
+disseminate infection in three different ways:
+
+1. By infecting man or animals who ingest it. It is thus, for example,
+that man, dog, or cat, becomes infected with the double-pored dog
+tapeworm, _Dipylidium caninum_. The cysticercoid stage occurs in the
+dog louse, or in the dog or cat fleas, and by accidentally ingesting the
+infested insect the vertebrate becomes infested. Similarly, _Hymenolepis
+diminuta_, a common tapeworm of rats and mice, and occasional in man,
+undergoes part of its life cycle in various meal-infesting insects, and
+is accidentally taken up by its definitive host. It is very probable
+that man becomes infested with _Dracunculus (Filaria) medinensis_
+through swallowing in drinking water, the crustacean, _Cyclops_,
+containing the larvæ of this worm.
+
+2. By infecting man or animals on whose skin or mucous membranes the
+insect host may be crushed or may deposit its excrement. The pathogenic
+organism may then actively penetrate, or may be inoculated by
+scratching. The causative organism of typhus fever is thus transmitted
+by the body louse.
+
+3. By direct inoculation by its bite, the insect host may transfer the
+parasite which has undergone development within it. The malarial
+parasite is thus transferred by mosquitoes; the Texas fever parasite by
+cattle ticks.
+
+
+
+
+CHAPTER II.
+
+ARTHROPODS WHICH ARE DIRECTLY POISONOUS
+
+
+Of all the myriads of insects and related forms, a very few are of
+direct use to man, some few others have forced his approbation on
+account of their wonderful beauty, but the great hordes of them are
+loathed or regarded as directly dangerous. As a matter of fact, only a
+very small number are in the slightest degree poisonous to man or to the
+higher animals. The result is that entomologists and lovers of nature,
+intent upon dissipating the foolish dread of insects, are sometimes
+inclined to go to the extreme of discrediting all statements of serious
+injury from the bites or stings of any species.
+
+Nevertheless, it must not be overlooked that poisonous forms do exist,
+and they must receive attention in a consideration of the ways in which
+arthropods may affect the health of man. Moreover, it must be recognized
+that "what is one man's meat, is another man's poison," and that in
+considering the possibilities of injury we must not ignore individual
+idiosyncrasies. Just as certain individuals may be poisoned by what, for
+others, are common articles of food, so some persons may be abnormally
+susceptible to insect poison. Thus, the poison of a bee sting may be of
+varying severity, but there are individuals who are made seriously sick
+by a single sting, regardless of the point of entry. Some individuals
+scarcely notice a mosquito bite, others find it very painful, and so
+illustrations of this difference in individuals might be multiplied.
+
+In considering the poisonous arthropods, we shall take them up by
+groups. The reader who is unacquainted with the systematic relationship
+of insects and their allies is referred to Chapter XII. No attempt will
+be made to make the lists under the various headings exhaustive, but
+typical forms will be discussed.
+
+
+ARANEIDA OR SPIDERS
+
+Of all the arthropods there are none which are more universally feared
+than are the spiders. It is commonly supposed that the majority, if not
+all the species are poisonous and that they are aggressive enemies of
+man and the higher animals, as well as of lower forms.
+
+That they really secrete a poison may be readily inferred from the
+effect of their bite upon insects and other small forms. Moreover, the
+presence of definite and well-developed poison glands can easily be
+shown. They occur as a pair of pouches (fig. 1) lying within the
+cephalothorax and connected by a delicate duct with a pore on the claw
+of the chelicera, or so-called "mandible" on the convex surface of the
+claw in such a position that it is not plugged and closed by the flesh
+of the victim.
+
+[Illustration: 1. Head of a spider showing poison gland (_c_) and its
+relation to the chelicera (_a_).]
+
+The glands may be demonstrated by slowly and carefully twisting off a
+chelicera and pushing aside the stumps of muscles at its base. By
+exercising care, the chitinous wall of the chelicera and its claw may be
+broken away and the duct traced from the gland to its outlet. The inner
+lining of the sac is constituted by a highly developed glandular
+epithelium, supported by a basement membrane of connective tissue and
+covered by a muscular layer, (fig. 2). The muscles, which are striated,
+are spirally arranged (fig. 1), and are doubtless under control of the
+spider, so that the amount of poison to be injected into a wound may be
+varied.
+
+[Illustration: 2. Section through a venom gland of Latrodectus
+13-guttatus showing the peritoneal, muscular and epithelial layers.
+After Bordas.]
+
+The poison itself, according to Kobert (1901), is a clear, colorless
+fluid, of oily consistency, acid reaction, and very bitter taste. After
+the spider has bitten two or three times, its supply is exhausted and
+therefore, as in the case of snakes, the poison of the bite decreases
+quickly with use, until it is null. To what extent the content of the
+poison sacs may contain blood serum or, at least, active principles of
+serum, in addition to a specific poison formed by the poison glands
+themselves, Kobert regards as an open question. He believes that the
+acid part of the poison, if really present, is formed by the glands and
+that, in the case of some spiders, the ferment-like, or better, active
+toxine, comes from the blood.
+
+[Illustration: 3. Chelicera of a spider.]
+
+But there is a wide difference between a poison which may kill an insect
+and one which is harmful to men. Certain it is that there is no lack of
+popular belief and newspaper records of fatal cases, but the evidence
+regarding the possibility of fatal or even very serious results for man
+is most contradictory. For some years, we have attempted to trace the
+more circumstantial newspaper accounts, which have come to our notice,
+of injury by North American species. The results have served, mainly, to
+emphasize the straits to which reporters are sometimes driven when there
+is a dearth of news. The accounts are usually vague and lacking in any
+definite clue for locating the supposed victim. In the comparatively few
+cases where the patient, or his physician, could be located, there was
+either no claim that the injury was due to spider venom, or there was no
+evidence to support the belief. Rarely, there was evidence that a
+secondary blood poisoning, such as might be brought about by the prick
+of a pin, or by any mechanical injury, had followed the bite of a
+spider. Such instances have no bearing on the question of the venomous
+nature of these forms.
+
